@@ -1,0 +1,8 @@
+﻿Group: Advanced
+FriendlyName: Advanced PostData
+SystemName: Advanced.PostData
+Version: 1.17
+SupportedVersions: 3.20
+Author:luis
+DisplayOrder: 1
+FileName: Nop.Plugin.Advanced.PostData.dll

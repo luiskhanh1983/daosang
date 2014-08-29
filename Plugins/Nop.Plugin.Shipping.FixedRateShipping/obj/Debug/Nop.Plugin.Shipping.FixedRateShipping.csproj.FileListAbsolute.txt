@@ -1,0 +1,34 @@
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Description.txt
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\logo.jpg
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.pdb
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Description.txt
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\logo.jpg
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csprojResolveAssemblyReference.cache
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Description.txt
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\logo.jpg
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Description.txt
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\logo.jpg
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.pdb
+D:\AFFILLMENT\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
+D:\AFFILLMENT\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb
+D:\AFFILLMENT\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csprojResolveAssemblyReference.cache
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Description.txt
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\logo.jpg
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csprojResolveAssemblyReference.cache

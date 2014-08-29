@@ -1,0 +1,24 @@
+﻿@{
+    Layout = "";
+}
+
+@using (Html.BeginForm())
+{
+    
+ <table class="adminContent">
+        <tr>
+            <td>
+                <h4>This tab allows you to preconfigure the theme for correct working:</h4>
+                <ul>
+                    <li>Set "Manufacturer thumbnail image size" to 420</li>
+                    <li>Set "Product thumbnail image size (catalog)" to 420</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" width="100%">
+                <input type="submit" name ="preconfigure" class="t-button" value="@T("ThemeHelper.Preconfigure")"/>
+            </td>
+        </tr>
+    </table>
+}

@@ -1,0 +1,138 @@
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner1.jpg
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner2.jpg
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner3.jpg
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\nivo-slider.css
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\arrows.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bar.css
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bullets.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\loading.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\arrows.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\bullets.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\dark.css
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\loading.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\arrows.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\bullets.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\default.css
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\loading.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\arrows.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\bullets.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\light.css
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\loading.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Description.txt
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Scripts\jquery.nivo.slider.js
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\logo.jpg
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.dll
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner1.jpg
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner2.jpg
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner3.jpg
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\nivo-slider.css
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\arrows.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bar.css
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bullets.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\loading.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\arrows.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\bullets.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\dark.css
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\loading.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\arrows.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\bullets.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\default.css
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\loading.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\arrows.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\bullets.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\light.css
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\loading.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Description.txt
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Scripts\jquery.nivo.slider.js
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\logo.jpg
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner1.jpg
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner2.jpg
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner3.jpg
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\nivo-slider.css
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\arrows.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bar.css
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bullets.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\loading.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\arrows.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\bullets.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\dark.css
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\loading.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\arrows.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\bullets.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\default.css
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\loading.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\arrows.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\bullets.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\light.css
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\loading.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Description.txt
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Scripts\jquery.nivo.slider.js
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\logo.jpg
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.pdb
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner1.jpg
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner2.jpg
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner3.jpg
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\nivo-slider.css
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\arrows.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bar.css
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bullets.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\loading.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\arrows.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\bullets.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\dark.css
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\loading.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\arrows.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\bullets.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\default.css
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\loading.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\arrows.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\bullets.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\light.css
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\loading.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Description.txt
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Scripts\jquery.nivo.slider.js
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\logo.jpg
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
+D:\AFFILLMENT\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.dll
+D:\AFFILLMENT\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner1.jpg
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner2.jpg
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner3.jpg
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\nivo-slider.css
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\arrows.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bar.css
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bullets.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\loading.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\arrows.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\bullets.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\dark.css
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\loading.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\arrows.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\bullets.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\default.css
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\loading.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\arrows.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\bullets.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\light.css
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\loading.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Description.txt
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Scripts\jquery.nivo.slider.js
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\logo.jpg
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.dll
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csprojResolveAssemblyReference.cache

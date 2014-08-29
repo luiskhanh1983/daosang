@@ -1,0 +1,490 @@
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Description.txt
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\aol.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\facebook.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\google.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\mailru.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\myopenid.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\openid.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\rambler.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\verisign.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\vkontakte.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\yahoo.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\yandex.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-inputicon.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-providers-en.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-providers-ru.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\openidstyles.css
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\logo.jpg
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Scripts\openid-en.js
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Scripts\openid-jquery-1.3b1.js
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.dll.config
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.pdb
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.csproj.App.config
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.csprojResolveAssemblyReference.cache
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.dll
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Description.txt
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\aol.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\facebook.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\google.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\mailru.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\myopenid.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\openid.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\rambler.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\verisign.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\vkontakte.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\yahoo.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\yandex.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-inputicon.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-providers-en.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-providers-ru.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\openidstyles.css
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\logo.jpg
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Scripts\openid-en.js
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Scripts\openid-jquery-1.3b1.js
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.dll.config
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.csproj.App.config
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.csprojResolveAssemblyReference.cache
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Description.txt
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\aol.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\facebook.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\google.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\mailru.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\myopenid.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\openid.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\rambler.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\verisign.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\vkontakte.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\yahoo.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\yandex.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-inputicon.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-providers-en.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-providers-ru.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\openidstyles.css
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\logo.jpg
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Scripts\openid-en.js
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Scripts\openid-jquery-1.3b1.js
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.dll.config
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.csproj.App.config
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.pdb
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Description.txt
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\aol.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\facebook.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\google.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\mailru.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\myopenid.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\openid.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\rambler.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\verisign.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\vkontakte.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\yahoo.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\yandex.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-inputicon.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-providers-en.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-providers-ru.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\openidstyles.css
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\logo.jpg
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Scripts\openid-en.js
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Scripts\openid-jquery-1.3b1.js
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.dll.config
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.dll
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.pdb
+D:\AFFILLMENT\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.csproj.App.config
+D:\AFFILLMENT\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.csprojResolveAssemblyReference.cache
+D:\AFFILLMENT\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.dll
+D:\AFFILLMENT\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Description.txt
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\aol.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\facebook.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\google.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\mailru.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\myopenid.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\openid.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\rambler.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\verisign.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\vkontakte.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\yahoo.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.large\yandex.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\aol.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\blogger.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\claimid.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\clickpass.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\facebook.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\flickr.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\google_profile.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\launchpad.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\linkedin.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\livejournal.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\mailru.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\myopenid.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\openid.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\rambler.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\technorati.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\twitter.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\verisign.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vidoop.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\vkontakte.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\winliveid.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\wordpress.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yahoo.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images.small\yandex.ico.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-inputicon.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-providers-en.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\Images\openid-selector\images\openid-providers-ru.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Content\openidstyles.css
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\logo.jpg
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Scripts\openid-en.js
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Scripts\openid-jquery-1.3b1.js
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.dll.config
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExternalAuth.OpenId\Nop.Plugin.ExternalAuth.OpenId.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.csproj.App.config
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.csprojResolveAssemblyReference.cache
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.dll
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.ExternalAuth.OpenId\obj\Debug\Nop.Plugin.ExternalAuth.OpenId.pdb

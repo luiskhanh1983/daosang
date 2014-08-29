@@ -1,0 +1,33 @@
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Description.txt
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Description.txt
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Description.txt
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Description.txt
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
+D:\AFFILLMENT\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
+D:\AFFILLMENT\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Description.txt
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojResolveAssemblyReference.cache

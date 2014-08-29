@@ -1,0 +1,34 @@
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+D:\AFFILLMENT\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+D:\AFFILLMENT\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
+D:\AFFILLMENT\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache

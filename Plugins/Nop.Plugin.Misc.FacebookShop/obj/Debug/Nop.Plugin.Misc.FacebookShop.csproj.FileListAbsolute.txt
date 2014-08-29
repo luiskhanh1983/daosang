@@ -1,0 +1,74 @@
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Description.txt
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\logo.gif
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-background.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-divider.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image-hover.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-triangle.png
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\styles.css
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\logo.jpg
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Scripts\jquery-1.7.1.min.js
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.pdb
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.dll
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Description.txt
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\logo.gif
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-background.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-divider.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image-hover.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-triangle.png
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\styles.css
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\logo.jpg
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Scripts\jquery-1.7.1.min.js
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.csprojResolveAssemblyReference.cache
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Description.txt
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\logo.gif
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-background.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-divider.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image-hover.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-triangle.png
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\styles.css
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\logo.jpg
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Scripts\jquery-1.7.1.min.js
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.pdb
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Description.txt
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\logo.gif
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-background.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-divider.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image-hover.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-triangle.png
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\styles.css
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\logo.jpg
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Scripts\jquery-1.7.1.min.js
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.pdb
+D:\AFFILLMENT\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.csprojResolveAssemblyReference.cache
+D:\AFFILLMENT\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.dll
+D:\AFFILLMENT\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Description.txt
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\logo.gif
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-background.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-divider.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image-hover.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-triangle.png
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\styles.css
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\logo.jpg
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Scripts\jquery-1.7.1.min.js
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.csprojResolveAssemblyReference.cache
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.dll
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.pdb

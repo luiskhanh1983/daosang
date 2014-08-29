@@ -1,0 +1,8 @@
+﻿Group: Misc
+FriendlyName: Dresscode Theme Helper
+SystemName: Misc.ThemeHelper
+Version: 1.00
+SupportedVersions: 3.20
+Author: www.mtekin.com
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.ThemeHelper.dll

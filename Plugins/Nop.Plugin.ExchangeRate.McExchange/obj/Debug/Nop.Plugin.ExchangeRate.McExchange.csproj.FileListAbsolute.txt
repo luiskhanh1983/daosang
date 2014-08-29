@@ -1,0 +1,35 @@
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Description.txt
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\logo.jpg
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.pdb
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
+D:\Projects\SuperNopCommerce320Themes\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Description.txt
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\logo.jpg
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Description.txt
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\logo.jpg
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Description.txt
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\logo.jpg
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll
+D:\AFFILLMENT\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.pdb
+D:\AFFILLMENT\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
+D:\AFFILLMENT\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
+D:\AFFILLMENT\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Description.txt
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\logo.jpg
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.pdb
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
+E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb

@@ -1,0 +1,74 @@
+﻿@model Nop.Plugin.Widgets.NivoSlider.Models.PublicInfoModel
+@{
+    Layout = "";
+
+
+}
+@using System
+@using Nop.Web.Framework.UI
+
+@helper RenderSliderLine(string pictureUrl, string text, string link, string dataTransition = "")
+{
+    if (!string.IsNullOrEmpty(pictureUrl))
+    {
+        if (!string.IsNullOrEmpty(link))
+        {
+            <a href="@link">
+                <img src="@pictureUrl" data-thumb="@pictureUrl" data-transition="@dataTransition" alt="" title="@text" />
+            </a>
+        }
+        else
+        {
+            <img src="@pictureUrl" data-thumb="@pictureUrl" data-transition="@dataTransition" alt="" title="@text" />
+        }
+    }
+}
+ <div id="slider_top">
+    <ul class="rslides" id="carousel1">
+           <li>
+              <div class="overlap_widget_wrapper">
+                <div class="left_image">
+                  <div class="placeholder"> @RenderSliderLine(Model.Picture1Url, Model.Text1, Model.Link1)</div>
+                </div>
+                <div class="right_image">
+                  <div class="placeholder">@RenderSliderLine(Model.Picture2Url, Model.Text2, Model.Link2)</div>
+                </div>
+                <div class="clear"></div>
+              </div>
+            </li>
+            <li>
+              <div class="overlap_widget_wrapper">
+                <div class="left_image">
+                  <div class="placeholder">@RenderSliderLine(Model.Picture3Url, Model.Text3, Model.Link3)</div>
+                </div>
+                <div class="right_image">
+                  <div class="placeholder">@RenderSliderLine(Model.Picture4Url, Model.Text4, Model.Link4)</div>
+                </div>
+                <div class="clear"></div>
+              </div>
+            </li>
+          <li>
+              <div class="overlap_widget_wrapper">
+                <div class="left_image">
+                  <div class="placeholder">@RenderSliderLine(Model.Picture5Url, Model.Text5, Model.Link5)</div>
+                </div>
+                <div class="right_image">
+                  <div class="placeholder">@RenderSliderLine(Model.Picture6Url, Model.Text6, Model.Link6)</div>
+                </div>
+                <div class="clear"></div>
+              </div>
+            </li>
+         <li>
+              <div class="overlap_widget_wrapper">
+                <div class="left_image">
+                  <div class="placeholder"> @RenderSliderLine(Model.Picture7Url, Model.Text7, Model.Link7)</div>
+                </div>
+                <div class="right_image">
+                  <div class="placeholder">@RenderSliderLine(Model.Picture8Url, Model.Text8, Model.Link8)</div>
+                </div>
+                <div class="clear"></div>
+              </div>
+            </li>
+      </ul>
+    </div>
+	
