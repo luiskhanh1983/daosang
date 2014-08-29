@@ -1,0 +1,100 @@
+.form-container {
+    width: 406px;
+    max-width: 406px;
+}
+
+#signup {
+    padding: 0 0 20px;
+    background: #fff;
+    display: table;
+    position: static;
+}
+
+#signup .form-header {
+    margin-bottom: 10px;
+}
+
+#signup .form-header h3 {
+    color: #fd7f37;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#signup .header p {
+    color: #8f8f8f;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+#signup .sep {
+    height: 1px;
+    background: #e8e8e8;
+    width: 406px;
+    margin: 0px -25px;
+}
+
+#signup .inputs {
+    margin-top: 10px;
+}
+
+#signup .inputs label {
+    color: #8f8f8f;
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    margin-bottom: 7px;
+    display: block;
+}
+
+input::-webkit-input-placeholder {
+    color:    #b5b5b5;
+}
+
+input:-moz-placeholder {
+    color:    #b5b5b5;
+}
+
+.form-dropdown {
+    background: #fff;
+    color: #383838 !important;
+    font-size: 0.8rem;
+    border: 1px solid #fd7f37 !important;
+    width: 352px !important;
+    height: 50px !important;
+    margin: 0 0 20px !important;
+    box-shadow: inset 0px 2px 3px rgba( 0,0,0,0.1 ) !important;
+    clear: both;
+}
+
+#signup .inputs .form-input {
+    background: #fff;
+    color: #383838 !important;
+    font-size: 0.8rem;
+    border: 1px solid #fd7f37 !important;
+    padding: 13px 10px !important;
+    width: 330px !important;
+    height: 22px !important;
+    margin-bottom: 20px !important;
+    box-shadow: inset 0px 2px 3px rgba( 0,0,0,0.1 ) !important;
+    clear: both;
+}
+
+#signup .inputs .checkboxy {
+    display: block;
+    position: static;
+    height: 25px;
+    margin-top: 10px;
+    clear: both;
+}
+
+#signup .inputs #submit {
+    width: 145px;
+    color: #fff;
+    line-height: 42px;
+    text-decoration: none;
+}
+
+#signup .inputs #submit:hover {
+    color: #fd7f37;
+}

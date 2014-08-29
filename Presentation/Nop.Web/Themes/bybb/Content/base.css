@@ -1,0 +1,744 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+* Modified by Andrew Leonov (yes, the Russian)
+*/
+
+
+/* Table of Content
+==================================================
+	#Reset & Basics
+	#Basic Styles
+	#Site Styles
+	#Typography
+	#Links
+	#Lists
+	#Images
+	#Buttons
+	#Forms
+	#Misc */
+
+
+/* #Reset & Basics (Inspired by E. Meyers)
+================================================== */
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline; }
+	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+		display: block; }
+	body {
+		line-height: 1; }
+	ol, ul {
+		list-style: none; }
+	blockquote, q {
+		quotes: none; }
+	blockquote:before, blockquote:after,
+	q:before, q:after {
+		content: '';
+		content: none; }
+	table {
+		border-collapse: collapse;
+		border-spacing: 0; }
+
+
+/* #Basic Styles
+================================================== */
+	body {
+		background-color:#fff;
+		font: 12px/18px Arial, Helvetica, sans-serif;
+		color: #000;
+/*		-webkit-font-smoothing: antialiased; 
+		-webkit-text-size-adjust: 100%;
+*/ }
+
+
+/* #Typography
+================================================== */
+	.cms-index-index h1, .cms-index-index h2, .cms-index-index h3, .cms-index-index h4, .cms-index-index h5, .cms-index-index h6 {
+		color: #181818;
+		font-family: "Georgia", "Times New Roman", serif;
+		font-weight: normal; }
+	.cms-index-index h1 a, .cms-index-index h2 a, .cms-index-index h3 a, .cms-index-index h4 a, .cms-index-index h5 a, .cms-index-index h6 a { font-weight: inherit; }
+	#footer h1 { font-size: 46px; line-height: 50px; margin-bottom: 14px;}
+	#footer h2 { font-size: 35px; line-height: 40px; margin-bottom: 10px; }
+	#footer h3, #footer_higher h3{
+		font-size: 16px;
+		line-height: 1em;
+		margin-bottom: 8px;
+		color: #FFF;
+		padding: 8px 0 8px 16px;
+}
+    #footer h3{background-color: #151515}
+    #footer_higher h3{background-color: #333333;margin-bottom:28px;}
+	
+    #footer_higher #contact h3{margin-bottom:23px;}
+	
+	.cms-index-index h4 { font-size: 21px; line-height: 30px; margin-bottom: 4px; }
+	.cms-index-index h5 { font-size: 17px; line-height: 24px; }
+	.cms-index-index h6 { font-size: 14px; line-height: 21px; }
+	.subheader { color: #777; }
+
+	.cms-index-index p img { display: none; }
+	.cms-index-index p.lead { font-size: 21px; line-height: 27px; color: #777;  }
+
+	.cms-index-index em { font-style: italic; }
+	strong { 	font-weight: bold}
+	.cms-index-index small { font-size: 80%; }
+
+/*	Blockquotes  */
+	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; font-style: italic; }
+	blockquote { margin: 0 0 20px; padding: 9px 20px 0 19px; border-left: 1px solid #ddd; }
+	blockquote cite { display: block; font-size: 12px; color: #555; }
+	blockquote cite:before { content: "\2014 \0020"; }
+	blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #555; }
+
+	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
+
+
+/* #Links
+================================================== */
+	a, a:visited { color: #000; outline: 0; }
+	a:hover, a:focus { color: #000;  }
+	p a, p a:visited { line-height: inherit; }
+
+
+/* #Lists
+================================================== */
+	.cms-index-index ul { list-style: none outside; }
+	.cms-index-index ol { list-style: decimal; }
+	.cms-index-index ol, .cms-index-index ul.square, .cms-index-index ul.circle, ul.disc { margin-left: 30px; }
+	.cms-index-index ul.square { list-style: square outside; }
+	.cms-index-index ul.circle { list-style: circle outside; }
+	.cms-index-index ul.disc { list-style: disc outside; }
+	.cms-index-index ul ul, .cms-index-index ul ol,
+	.cms-index-index ol ol, .cms-index-index ol ul { /*margin: 4px 0 5px 30px;*/ font-size: 90%;  }
+	.cms-index-index ul ul li, .cms-index-index ul ol li,
+	.cms-index-index ol ol li, .cms-index-index ol ul li { margin-bottom: 6px; }
+	.cms-index-index li { line-height: 18px;  }
+	.cms-index-index ul.large li { line-height: 21px; }
+
+/* #Images
+================================================== */
+
+	 img.scale-with-grid{
+		max-width: 100%;
+		height: auto;
+}
+
+
+/* #Buttons
+================================================== */
+
+	#header .button,
+	#header button,
+	#header input[type="submit"],
+	#header input[type="reset"],
+	#header input[type="button"] {
+	  background: #707070;
+	  border: none;
+	  color: #d4d4d4 !important;
+	  display: inline-block;
+	  font-size: 12px;
+	  font-weight: bold;
+	  text-decoration: none;
+	  cursor: pointer;
+	  margin-bottom: 10px;
+	  line-height: normal;
+	  padding: 6px 10px;
+	  font-family:  Arial, Helvetica, sans-serif; 
+	 }
+
+	#header .button:hover,
+	#header button:hover,
+	#header input[type="submit"]:hover,
+	#header input[type="reset"]:hover,
+	#header input[type="button"]:hover,
+    .newsletter_footer_submit button:hover{
+		color: #fff !important;
+		background-color: #999999;
+ }
+
+	#header .button:active,
+	#header button:active,
+	#header input[type="submit"]:active,
+	#header input[type="reset"]:active,
+	#header input[type="button"]:active {
+		background: #ff0000;
+    }
+
+	#header .button.full-width,
+	#header button.full-width,
+	#header input[type="submit"].full-width,
+	#header input[type="reset"].full-width,
+	#header input[type="button"].full-width {
+		width: 100%;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+		text-align: center;
+    }
+
+	/* Fix for odd Mozilla border & padding issues */
+/*	button::-moz-focus-inner,
+	input::-moz-focus-inner {
+  border: 0;
+    padding: 0;
+	}
+*/
+
+/* #Forms
+================================================== */
+
+	#header input[type="text"],
+	#header input[type="password"],
+	#header input[type="email"],
+	#header textarea,
+	#header select {
+		border: none;
+		padding: 8px 10px;
+		outline: none !important;
+		font: 12px/20px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		color: #868686;
+		margin: 0;
+		width: 210px;
+		max-width: 100%;
+		display: block;
+		margin-bottom: 20px;
+		background: #2f2f2f; 
+	}
+	
+	#header select {
+		padding: 0; 
+	}
+	.cms-index-index input[type="text"]:focus,
+	.cms-index-index input[type="password"]:focus,
+	.cms-index-index input[type="email"]:focus,
+	textarea:focus {
+ }
+.cms-index-index textarea {
+		min-height: 60px; }
+	.cms-index-index label,
+	.cms-index-index legend {
+		display: block;
+		/* font-weight: bold; */
+		font-size: 15px;  
+		font-family: 'segoe ui';
+}
+	.cms-index-index select {
+		width: 220px; }
+
+/* #Misc
+================================================== */
+	.remove-bottom { margin-bottom: 0 !important; }
+	.half-bottom { margin-bottom: 10px !important; }
+	.add-bottom { margin-bottom: 20px !important; }
+	.wrapper { width:100%; overflow:hidden;}
+	.wrapper_w { width:100%;}
+
+
+
+
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+
+/* Table of Contents
+==================================================
+    #Base 960 Grid
+    #Tablet (Portrait)
+    #Mobile (Portrait)
+    #Mobile (Landscape)
+    #Clearing */
+
+
+
+/* #Base 960 Grid
+================================================== */
+
+.container {
+	position: relative;
+	width: 960px;
+	margin: 0 auto;
+	padding: 0;
+}
+.container .column,  .container .columns {
+	float: left;
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.row {
+	margin-bottom:9px;
+}
+/* Nested Column Classes */
+    .column.alpha, .columns.alpha {
+	margin-left: 0;
+}
+.column.omega, .columns.omega {
+	margin-right: 0;
+}
+/* Base Grid */
+    .container .one.column,  .container .one.columns {
+	width: 40px;
+}
+.container .two.columns {
+	width: 100px;
+}
+.container .three.columns {
+	width: 160px;
+}
+.container .four.columns {
+	width: 220px;
+}
+.container .five.columns {
+	width: 280px;
+}
+.container .six.columns {
+	width: 340px;
+}
+.container .seven.columns {
+	width: 400px;
+}
+.container .eight.columns {
+	width: 460px;
+}
+.container .nine.columns {
+	width: 520px;
+}
+.container .ten.columns {
+	width: 580px;
+}
+.container .eleven.columns {
+	width: 640px;
+}
+.container .twelve.columns {
+	width: 700px;
+}
+.container .thirteen.columns {
+	width: 760px;
+}
+.container .fourteen.columns {
+	width: 820px;
+}
+.container .fifteen.columns {
+	width: 880px;
+}
+.container .sixteen.columns {
+	width: 940px;
+}
+.container .one-third.column {
+	width: 300px;
+}
+.container .two-thirds.column {
+	width: 620px;
+}
+/* Offsets */
+    .container .offset-by-one {
+	padding-left: 60px;
+}
+.container .offset-by-two {
+	padding-left: 120px;
+}
+.container .offset-by-three {
+	padding-left: 180px;
+}
+.container .offset-by-four {
+	padding-left: 240px;
+}
+.container .offset-by-five {
+	padding-left: 300px;
+}
+.container .offset-by-six {
+	padding-left: 360px;
+}
+.container .offset-by-seven {
+	padding-left: 420px;
+}
+.container .offset-by-eight {
+	padding-left: 480px;
+}
+.container .offset-by-nine {
+	padding-left: 540px;
+}
+.container .offset-by-ten {
+	padding-left: 600px;
+}
+.container .offset-by-eleven {
+	padding-left: 660px;
+}
+.container .offset-by-twelve {
+	padding-left: 720px;
+}
+.container .offset-by-thirteen {
+	padding-left: 780px;
+}
+.container .offset-by-fourteen {
+	padding-left: 840px;
+}
+.container .offset-by-fifteen {
+	padding-left: 900px;
+}
+
+
+
+/* #Tablet (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+ .container {
+width: 768px;
+}
+ .container .column,  .container .columns {
+margin-left: 10px;
+margin-right: 10px;
+}
+ .column.alpha, .columns.alpha {
+margin-left: 0;
+margin-right: 10px;
+}
+ .column.omega, .columns.omega {
+margin-right: 0;
+margin-left: 10px;
+}
+ .alpha.omega {
+margin-left: 0;
+margin-right: 0;
+}
+ .container .one.column,  .container .one.columns {
+width: 28px;
+}
+ .container .two.columns {
+width: 76px;
+}
+ .container .three.columns {
+width: 124px;
+}
+ .container .four.columns {
+width: 172px;
+}
+ .container .five.columns {
+width: 220px;
+}
+ .container .six.columns {
+width: 268px;
+}
+ .container .seven.columns {
+width: 316px;
+}
+ .container .eight.columns {
+width: 364px;
+}
+ .container .nine.columns {
+width: 412px;
+}
+ .container .ten.columns {
+width: 460px;
+}
+ .container .eleven.columns {
+width: 490px;
+}
+ .container .twelve.columns {
+width: 556px;
+}
+ .container .thirteen.columns {
+width: 604px;
+}
+ .container .fourteen.columns {
+width: 652px;
+}
+ .container .fifteen.columns {
+width: 700px;
+}
+ .container .sixteen.columns {
+width: 748px;
+}
+ .container .one-third.column {
+width: 236px;
+}
+ .container .two-thirds.column {
+width: 492px;
+}
+
+        /* Offsets */
+        .container .offset-by-one {
+padding-left: 48px;
+}
+ .container .offset-by-two {
+padding-left: 96px;
+}
+ .container .offset-by-three {
+padding-left: 144px;
+}
+ .container .offset-by-four {
+padding-left: 192px;
+}
+ .container .offset-by-five {
+padding-left: 240px;
+}
+ .container .offset-by-six {
+padding-left: 288px;
+}
+ .container .offset-by-seven {
+padding-left: 336px;
+}
+ .container .offset-by-eight {
+padding-left: 384px;
+}
+ .container .offset-by-nine {
+padding-left: 432px;
+}
+ .container .offset-by-ten {
+padding-left: 480px;
+}
+ .container .offset-by-eleven {
+padding-left: 528px;
+}
+ .container .offset-by-twelve {
+padding-left: 576px;
+}
+ .container .offset-by-thirteen {
+padding-left: 624px;
+}
+ .container .offset-by-fourteen {
+padding-left: 672px;
+}
+ .container .offset-by-fifteen {
+padding-left: 720px;
+}
+}
+
+
+/*  #Mobile (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 320px */
+
+    @media only screen and (max-width: 767px) {
+ .container {
+width: 300px;
+}
+ .container .columns,  .container .column {
+margin: 0;
+}
+ .container .one.column,  .container .one.columns,  .container .two.columns,  .container .three.columns,  .container .four.columns,  .container .five.columns,  .container .six.columns,  .container .seven.columns,  .container .eight.columns,  .container .nine.columns,  .container .ten.columns,  .container .eleven.columns,  .container .twelve.columns,  .container .thirteen.columns,  .container .fourteen.columns,  .container .fifteen.columns,  .container .sixteen.columns,  .container .one-third.column,  .container .two-thirds.column {
+width: 300px;
+}
+
+        /* Offsets */
+        .container .offset-by-one,  .container .offset-by-two,  .container .offset-by-three,  .container .offset-by-four,  .container .offset-by-five,  .container .offset-by-six,  .container .offset-by-seven,  .container .offset-by-eight,  .container .offset-by-nine,  .container .offset-by-ten,  .container .offset-by-eleven,  .container .offset-by-twelve,  .container .offset-by-thirteen,  .container .offset-by-fourteen,  .container .offset-by-fifteen {
+padding-left: 0;
+}
+}
+
+
+/* #Mobile (Landscape)
+================================================== */
+
+    /* Note: Design for a width of 480px */
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+ .container {
+width: 420px;
+}
+ .container .column,  .container .columns {
+margin-left: 5px;
+margin-right: 5px;
+}
+ .column.alpha, .columns.alpha {
+margin-left: 0;
+margin-right: 5px;
+}
+ .column.omega, .columns.omega {
+margin-right: 0;
+margin-left: 5px;
+}
+ .alpha.omega {
+margin-left: 0;
+margin-right: 0;
+}
+ .container .one.column,  .container .one.columns,  .container .two.columns,  .container .three.columns,  .container .four.columns {
+width: 200px;
+}
+ .container .five.columns, .container .six.columns,  .container .seven.columns,  .container .eight.columns,  .container .nine.columns,  .container .ten.columns,  .container .eleven.columns,  .container .twelve.columns,  .container .thirteen.columns,  .container .fourteen.columns,  .container .fifteen.columns,  .container .sixteen.columns,  .container .one-third.column,  .container .two-thirds.column {
+width: 420px;
+margin:0;
+}
+}
+
+/* 1200px Media Query for the Skeleton Grid - http://getskeleton.com
+* Adapted from http://www.aliaspooryorik.com/blog/index.cfm/e/posts.details/post/responsive-css-grid-systems-345
+* Added .alpha.omega combo classes. Hope to see that fixed in later versions of Skeleton: https://github.com/dhgamache/Skeleton/issues/68
+*/
+@media only screen and (min-width: 1200px) {
+ .container {
+width: 1200px;
+}
+.container .column, .container .columns {
+margin-left: 10px;
+margin-right: 10px;
+}
+ .column.alpha, .columns.alpha {
+margin-left: 0;
+margin-right: 10px;
+}
+.column.omega, .columns.omega {
+margin-right: 0;
+margin-left: 10px;
+}
+ .column.alpha.omega, .columns.alpha.omega {
+margin-left: 0;
+margin-right: 0
+}
+ .container .one.column {
+width: 55px;
+}
+.container .two.columns {
+width: 130px;
+}
+.container .three.columns {
+width: 205px;
+}
+.container .four.columns {
+width: 280px;
+}
+.container .five.columns {
+width: 355px;
+}
+.container .six.columns {
+width: 430px;
+}
+.container .seven.columns {
+width: 505px;
+}
+.container .eight.columns {
+width: 580px;
+}
+.container .nine.columns {
+width: 655px;
+}
+.container .ten.columns {
+width: 730px;
+}
+.container .eleven.columns {
+width: 805px;
+}
+.container .twelve.columns {
+width: 880px;
+}
+.container .thirteen.columns {
+width: 955px;
+}
+.container .fourteen.columns {
+width: 1030px;
+}
+.container .fifteen.columns {
+width: 1105px;
+}
+.container .sixteen.columns {
+width: 1180px;
+}
+ .container .one-third.column {
+width: 380px;
+}
+.container .two-thirds.column {
+width: 780px;
+}
+
+/* Offsets */
+.container .offset-by-one {
+padding-left: 75px;
+}
+.container .offset-by-two {
+padding-left: 150px;
+}
+.container .offset-by-three {
+padding-left: 225px;
+}
+.container .offset-by-four {
+padding-left: 300px;
+}
+.container .offset-by-five {
+padding-left: 375px;
+}
+.container .offset-by-six {
+padding-left: 450px;
+}
+.container .offset-by-seven {
+padding-left: 525px;
+}
+.container .offset-by-eight {
+padding-left: 600px;
+}
+.container .offset-by-nine {
+padding-left: 675px;
+}
+.container .offset-by-ten {
+padding-left: 750px;
+}
+.container .offset-by-eleven {
+padding-left: 825px;
+}
+.container .offset-by-twelve {
+padding-left: 900px;
+}
+.container .offset-by-thirteen {
+padding-left: 975px;
+}
+.container .offset-by-fourteen {
+padding-left: 1050px;
+}
+.container .offset-by-fifteen {
+padding-left: 1125px;
+}
+}
+/* #Clearing
+================================================== */
+
+    /* Self Clearing Goodness */
+    .container:after {
+	content: "\0020";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+/* Use clearfix class on parent to clear nested columns,
+    or wrap each row of columns in a <div class="row"> */
+    .clearfix:before,  .clearfix:after,  .row:before,  .row:after {
+	content: '\0020';
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+.row:after,  .clearfix:after {
+	clear: both;
+}
+.row,  .clearfix {
+/*	zoom: 1;
+*/}
+/* You can also use a <br class="clear" /> to clear columns */
+    .clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}

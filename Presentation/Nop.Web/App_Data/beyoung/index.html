@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title> Engage </title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('#submit0').click(function() {
+				$('#screen0').fadeOut(500);
+				$('#screen1').fadeIn(500);
+			});
+			$('#submit1').click(function() {
+				$('#screen1').fadeOut(500);
+				$('#screen2').fadeIn(500);
+			});
+			$('#submit2').click(function() {
+				$('#screen2').fadeOut(500);
+				$('#screen3').fadeIn(500);
+			});
+			$('#submit3').click(function() {
+				$('#screen3').fadeOut(500);
+				$('#screen4').fadeIn(500);
+			});
+			$('#submit4').click(function() {
+				$('#screen4').fadeOut(500);
+				$('#screen5').fadeIn(500);
+			});
+		});
+	</script>
+
+<script src="http://www.geoplugin.net/javascript.gp"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	//var country=geoplugin_countryName();
+    var city = geoplugin_city();
+	//var region = geoplugin_region();
+	var location = document.getElementById("city-name");
+	location.innerHTML =city;
+});
+</script>
+</head>
+
+<body>
+
+<video src="http://bybbmarketing.com/Content/video/08-bermuda-090612.mp4" id="video1" loop autoplay></video>
+<audio src="http://bybbmarketing.com/beyoung/secret_stuff/FF_2FX15021.mp3" id="audio1" autoplay loop></audio>
+<button onclick="playPause()" class="play-pause"></button>
+
+<div class="main_wrapper">
+
+	<!-- Screen 0 -->
+	<div class="content_box" id="screen0">
+
+		<div class="box_title"> Is this where YOU and YOUR be young EO Team in <span id="city-name"></span>, have your team outings? </div>
+		<div class="box_title2"> It will be, once you ENGAGE the all new bybb MARKETING SYSTEM </div>
+		<div id="contact-area">
+				<input type="submit" name="submit" value="ENGAGE NOW" class="submit-button" id="submit0" />
+				<div class="cleaner"></div>
+		</div>
+	</div>
+	<!-- Screen 0 End -->
+
+	<!-- Screen 1 -->
+	<div class="content_box" id="screen1">
+
+		<div class="box_title"> Start Your PARTNER PROSPECTOR </div>
+		<div id="contact-area">
+			
+			<!-- <form method="post"> -->
+				<label for="Name">NAME</label>
+				<input type="text" name="FirstName" id="FirstName" placeholder="First Name" />
+				<label></label>
+				<input type="text" name="LastName" id="LastName" placeholder="Last Name" />
+				
+				<label for="id">byEO ID</label>
+				<input type="text" name="id" class="id" placeholder="Sharing Partner ID" />
+	
+				<label for="level">LEVEL</label><br />
+				<select>
+					<option> Emerald </option>
+				</select>
+
+				<label for="Email">EMAIL</label>
+				<input type="text" name="Email" id="Email" placeholder="Same as Be Young" />
+				<div class="cleaner"></div>
+
+				<input type="submit" name="submit" value="ENGAGE NOW" class="submit-button" id="submit1" />
+				<div class="cleaner"></div>
+			<!-- </form> -->			
+		</div>
+	</div>
+	<!-- Screen 1 End -->
+
+	<!-- Screen 2 -->
+	<div class="content_box" id="screen2">
+
+		<div class="box_title"> Check your email, <br> Enter the Code </div>
+		<div id="contact-area">
+			
+			<!-- <form method="post"> -->
+				<label for="Name">CODE</label>
+				<input type="text" name="Code" id="Code" placeholder="Your code" />
+
+				<div class="cleaner"></div>
+
+				<input type="submit" name="submit" value="VERIFY CODE" class="submit-button" id="submit2" />
+				<div class="cleaner"></div>
+			<!-- </form> -->			
+		</div>
+	</div>
+	<!-- Screen 2 End -->
+
+	<!-- Screen 3 -->
+	<div class="content_box" id="screen3">
+
+		<div class="box_title"> It is YOUR lucky day! </div>
+		<div class="box_title2"> WE DO ALL THE WORK FOR YOU! </div>
+		<img src="http://testpaypal-001-site1.mywindowshosting.com/Themes/DressCode/Content/images/logo.png">
+
+		<div id="contact-area">
+			
+			<!-- <form method="post"> -->
+				<p>LIMITED TIME - NO SETUP FEE,</p>
+				<p>DOUBLE the PROSPECTS</p>
+
+				<input type="submit" name="submit" value="BE BUILDING AUTOMATICALLY" class="submit-button" id="submit3" />
+				<div class="cleaner"></div>
+			<!-- </form> -->			
+		</div>
+	</div>
+	<!-- Screen 3 End -->
+
+	<!-- Screen 4 -->
+	<div class="content_box" id="screen4">
+
+		<img src="http://testpaypal-001-site1.mywindowshosting.com/Themes/DressCode/Content/images/logo.png" style="margin-bottom: 10px;">
+		<div class="box_title"> NOW 199.95/monthly to ENGAGE </div>
+		<div class="box_title2"> 200 PARTNER PROSPECTS Guaranteed </div>
+
+		<div id="contact-area">
+			
+			<!-- <form method="post"> -->
+				<p> Bare minimum estimation: <br> 4 New Sharing Partners for you </p>
+
+				<input type="submit" name="submit" value="START PROSPECTING" class="submit-button" id="submit4" />
+				<div class="cleaner"></div>
+			<!-- </form> -->			
+		</div>
+	</div>
+	<!-- Screen 4 End -->
+
+	<!-- Screen 5 -->
+	<div class="content_box" id="screen5">
+
+		<img src="http://testpaypal-001-site1.mywindowshosting.com/Themes/DressCode/Content/images/logo.png" style="margin-bottom: 10px;">
+
+		<div id="contact-area">
+			
+			<form method="post">
+				<label for="Username">USERNAME</label>
+				<input type="text" name="Username" id="Username" placeholder="bybb Account" />
+				<label for="Username">PASSWORD</label>
+				<input type="password" name="Password" id="Password" placeholder="bybb Password" />
+
+				<input type="submit" name="submit" value="SUBSCRIBE" class="submit-button" id="submit5" />
+				<div class="cleaner"></div>
+			<!-- </form> -->			
+		</div>
+	</div>
+	<!-- Screen 5 End -->
+
+</div>
+<script> 
+var myVideo = document.getElementById("video1"); 
+var myAudio = document.getElementById("audio1");
+
+function playPause() { 
+    if (myVideo.paused)
+        myVideo.play(),
+    	myAudio.play();
+    else 
+        myVideo.pause(),
+    	myAudio.pause();
+} 
+</script>
+</body>
+
+</html>

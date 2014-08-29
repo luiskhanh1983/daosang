@@ -1,0 +1,278 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 62.5%;
+	font-family: 'Segoe UI Light', 'light';
+	background: url(http://bybbmarketing.com/Content/video/background.png) no-repeat #979b9c;
+}
+
+.main_wrapper {
+	position: relative;
+	margin: 0 auto;
+	width: 500px;
+}
+
+p {
+	font-size: 1.3em;
+	margin-bottom: 15px;
+}
+
+.content_box {
+	width: 465px;
+	background: rgba(253, 127, 55, 0.8);
+	padding: 20px;
+	margin: 50px auto;
+	height: auto;
+	min-height: 370px;
+	text-align: center;
+	position: absolute;	
+	display: none;
+	z-index: 9999;
+	border: 1px solid #fff;
+}
+
+#screen0 { min-height: 0; }
+
+#contact-area {
+	width: 465px;
+	margin-top: 25px;
+}
+
+#contact-area input, #contact-area textarea {
+	padding: 6px 5px;
+	width: 290px;
+	float: left;
+	font-size: 1.4em;
+	margin: 0px 0px 10px 0px;
+	color: #fd7f37;
+}
+
+#contact-area textarea {
+	height: 90px;
+}
+
+#contact-area textarea:focus, #contact-area input:focus {
+	border: 2px solid #900;
+}
+
+  #contact-area input.submit-button {
+        width: auto;
+        height: 48px;
+        margin: 10px 390px;
+        font-size: 24px;
+        border: none;
+        font-weight: bold;
+        background: #fff;
+        font-family: 'segoe ui light';
+        cursor: pointer;
+    }
+
+    #contact-area input.submit-button1 {
+        width: auto;
+        height: 48px;
+        margin: 10px 160px;
+        font-size: 24px;
+        border: none;
+        font-weight: bold;
+        background: #fff;
+        font-family: 'segoe ui light';
+        cursor: pointer;
+    }
+
+input#expiration { width: 150px; }
+label#cvv { width: 60px; }
+input#cvv { width: 28px; } 
+
+label {
+	float: left;
+	text-align: right;
+	margin-right: 15px;
+	width: 115px;
+	padding-top: 5px;
+	font-size: 24px;
+	line-height: 21px;
+	color: #fff;
+}
+
+.box_title {
+	font-size: 36px;
+	color: #fff;
+}
+
+.box_title2 {
+	color: #8f3a00;
+	font-size: 32px;
+}
+
+#screen0 { display: block; position: fixed; right: 0px; top:20px; width:1000px; text-align: right; height: 220px !important; padding-right: 25px; margin-right:25px; }
+#screen0 #contact-area {float: right;}
+#screen0 .submit-button { float: right; margin:0 !important;}
+
+
+#screen2 .box_title { margin-top: 70px; }
+#screen2 .submit-button { margin-top: 20px;}
+
+#screen4 .box_title { font-size: 30px; }
+#screen4 .box_title2 { font-size: 26px; }
+
+#screen5 #contact-area { margin-left: 20px; margin-top:55px; }
+#screen5 .submit-button { margin-top: 10px; }
+
+p { 
+	color: #fff;
+	font-size: 30px;
+}
+
+p.small { font-size: 18px; }
+
+select { 	
+	padding: 5px;
+	width: 304px;
+	height: 32px;
+	float: left;
+	line-height: 30px;
+	font-size: 15px;
+	margin: 0px 0px 10px 0px;
+	color:#fd7f37;
+	font-family: 'Segoe UI Light';
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color: #fd7f37;
+    font-family: 'Segoe UI Light';
+    line-height: 15px;
+    padding: 0 3px;
+    font-size: 15px;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #fd7f37;
+    font-family: 'Segoe UI Light';
+    line-height: 15px;
+    padding: 0 3px;
+    font-size: 15px;
+    opacity: 0.8;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #fd7f37;
+    font-family: 'Segoe UI Light';
+    line-height: 15px;
+    padding: 0 3px;
+    font-size: 15px;
+    opacity: 0.8;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: #fd7f37;
+    font-family: 'Segoe UI Light';
+    line-height: 15px;
+    padding: 0 3px;
+    font-size: 15px;
+}
+
+.cleaner {
+	clear: both;
+}
+
+video {
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	z-index:-1;
+}
+
+#play {
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	z-index: 999;
+	cursor: pointer;
+	color:#fd7f37;
+}
+
+#pause {
+	position: fixed;
+	top: 12px;
+	right: 14px;
+	z-index: 999;
+	color: #fd7f37;
+}
+
+.play-pause {
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	width: 100%;
+	background: rgba(0,0,0,0);
+	border: 0px;
+	z-index: 9999;
+}
+
+.box_logo { margin-bottom: 10px; }
+
+#contact-area input.submit-button2 {
+	width: auto;
+	height: 48px;
+		margin: 10px 36px;
+	font-size: 24px;
+	border: none;
+	font-weight: bold;
+	background: #fff;
+	font-family: 'segoe ui light';
+	cursor: pointer;
+}
+#contact-area input.submit-button3 {
+	width: auto;
+	height: 48px;
+		margin: 10px 90px;
+	font-size: 24px;
+	border: none;
+	font-weight: bold;
+	background: #fff;
+	font-family: 'segoe ui light';
+	cursor: pointer;
+}
+#contact-area input.submit-button4 {
+	width: auto;
+	height: 48px;
+		margin: 10px 133px;
+	font-size: 24px;
+	border: none;
+	font-weight: bold;
+	background: #fff;
+	font-family: 'segoe ui light';
+	cursor: pointer;
+}
+#contact-area input.submit-button5 {
+	width: auto;
+	height: 48px;
+		margin: 10px 110px;
+	font-size: 24px;
+	border: none;
+	font-weight: bold;
+	background: #fff;
+	font-family: 'segoe ui light';
+	cursor: pointer;
+}
+
+
+#city-name {
+	text-transform: uppercase;
+}
+
+#highlight {
+	position: relative;
+	top: 2px;
+	font-size: 34px;
+}
+
+.field-validation-error {
+	font-size: 16px;
+}
+
+#count { display:block; color: #fff; font-size: 40px; font-family: 'segoe UI light'; border: 3px solid #fff; padding: 15px 2px; border-radius: 50%; margin: 30px auto 0; width: 80px;}

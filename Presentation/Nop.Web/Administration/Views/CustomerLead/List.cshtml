@@ -1,0 +1,32 @@
+﻿@using Telerik.Web.Mvc.UI
+@{
+    //page title
+    ViewBag.Title = T("Admin.Customers.CustomerLeads").Text;
+}
+<div class="section-header">
+    <div class="title">
+        <img src="@Url.Content("~/Administration/Content/images/ico-customers.png")" alt="" />
+        @T("Admin.Customers.CustomerLeads")
+    </div>
+   
+</div>
+<table class="adminContent">
+    <tr>
+        <td>
+            @(Html.Telerik().Grid<CustomerLeadModel>()
+                    .Name("customerlead-grid")
+                    .Columns(columns =>
+                    {
+                        columns.Bound(x => x.Source).Width(150).Filterable(false);
+                        columns.Bound(x => x.LastName).Width(150).Filterable(false);
+                        columns.Bound(x => x.FirstName).Width(150).Filterable(false);
+                        columns.Bound(x => x.Email).Width(150).Filterable(false);
+                        columns.Bound(x => x.IP).Width(150).Filterable(false);
+                        columns.Bound(x => x.DateReceived).Width(150).Filterable(false);
+                        
+                    })
+                    .DataBinding(dataBinding => dataBinding.Ajax().Select("List", "CustomerLead"))
+                    .EnableCustomBinding(true))
+        </td>
+    </tr>
+</table>

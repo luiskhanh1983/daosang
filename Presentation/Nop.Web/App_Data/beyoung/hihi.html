@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://www.geoplugin.net/javascript.gp"></script>
+</head>
+<body>
+    <ul>
+	<li>Your country is: <span id="country"></span></li>
+      
+        <li>Your city is: <span id="city"></span></li>
+        <li>Your region is: <span id="region"></span></li>
+        <li>Your areaCode is: <span id="areaCode"></span></li>
+        <li>Your dma code is: <span id="dmaCode"></span></li>
+        <li>Your latitude is: <span id="latitude"></span></li>
+        <li>Your longitude is: <span id="longitude"></span></li>
+        <li>Your currencyCode is: <span id="currencyCode"></span></li>
+        <li>Your currencySymbol is: <span id="currencySymbol"></span></li>
+    </ul>
+<script>
+var country=geoplugin_countryName();
+ var city = geoplugin_city();
+ var region = geoplugin_region();
+ var areaCode = geoplugin_areaCode();
+ var dmaCode = geoplugin_dmaCode();
+ var latitude = geoplugin_latitude();
+ var longitude = geoplugin_longitude();
+ var currencyCode = geoplugin_currencyCode();
+ var currencySymbol = geoplugin_currencySymbol();
+document.getElementById('country').innerHTML = country;
+ document.getElementById('city').innerHTML = city;
+ document.getElementById('region').innerHTML = region;
+ document.getElementById('areaCode').innerHTML = areaCode;
+ document.getElementById('dmaCode').innerHTML = dmaCode;
+ document.getElementById('latitude').innerHTML = latitude;
+ document.getElementById('longitude').innerHTML = longitude;
+ document.getElementById('currencyCode').innerHTML = currencyCode;
+ document.getElementById('currencySymbol').innerHTML = currencySymbol;
+</script>
+</body>
+</html>

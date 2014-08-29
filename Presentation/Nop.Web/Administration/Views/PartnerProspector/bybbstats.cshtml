@@ -1,0 +1,76 @@
+﻿@using Telerik.Web.Mvc.UI
+@model Nop.Admin.Models.Catalog.CategoryModel
+@{
+    //page title
+    ViewBag.Title = T("Admin.Customers.PartnerProspectors").Text;
+}
+<h2>PARTNER PROSPECTOR</h2>
+
+<div style="border:1px solid #fd7f37">
+
+    <div style="float: left; margin: 10px 10px 10px 30px;">
+        
+        <div id="countdown1" class="countdown_stats">@Model.Bybbstats.TOTALORDERED</div>
+        <div class="countdown_stats_angle"> TOTAL ORDERED</div>
+    </div>
+    <div style="float: left; margin: 10px 10px 10px 30px;">
+
+        <div id="countdown2" class="countdown_stats">@Model.Bybbstats.TOTALDELIVERED</div>
+        <div class="countdown_stats_angle">TOTAL DELIVERED</div>
+    </div>
+    <div style="float: left; margin: 10px 10px 10px 30px;">
+
+        <div id="countdown2" class="countdown_stats">@Model.Bybbstats.PARTNERPROSPECTSordered</div>
+        <div class="countdown_stats_angle"> BA ORDERS PROSPECTS</div>
+    </div>
+    <div style="float: left; margin: 10px 10px 10px 30px;">
+
+
+        <div id="countdown3" class="countdown_stats">0</div>
+        <div class="countdown_stats_angle">  BA ORDERS DELIVERED</div>
+    </div>
+    <div style="float: left; margin: 10px 10px 10px 30px;">
+
+        <div id="countdown3" class="countdown_stats">@Model.Bybbstats.GRATISPARTNERPROSPECTSgarnered</div>
+        <div class="countdown_stats_angle"> AP ORDERS PROSPECTS</div>
+ </div>
+    <div style="float: left; margin: 10px 10px 10px 30px;">
+
+        <div id="countdown1" class="countdown_stats">0</div>
+        <div class="countdown_stats_angle">AP BONUS DELIVERED</div>
+    </div>
+    <div style="float: left; margin: 10px 10px 10px 30px;">
+
+        <div id="countdown2" class="countdown_stats">@Model.Bybbstats.ALPHAPARTNERPROSPECTSgarnered</div>
+        <div class="countdown_stats_angle"> AG BONUS PROSPECTS</div>
+    </div>
+    <div style="float: left; margin: 10px 10px 10px 30px;">
+
+        <div id="countdown3" class="countdown_stats">0</div>
+        <div class="countdown_stats_angle">  AG BONUS DELIVERED</div>
+    </div>
+
+</div>
+<style type="text/css">
+    .countdown_stats_angle {
+        border: 3px solid #fd7f37;
+        font-family: 'Oswald';
+        margin-top: 3px;
+        padding: 21px;
+        text-align: center;
+        width: 80px;
+        margin-left: 13px;
+    }
+
+    .countdown_stats {
+        border: 3px solid #fd7f37;
+        border-radius: 50%;
+        font-family: 'Oswald';
+        margin-top: 3px;
+        padding: 21px;
+        text-align: center;
+        width: 100px;
+        font-size:20px;
+        font-weight:bold;
+    }
+</style>
