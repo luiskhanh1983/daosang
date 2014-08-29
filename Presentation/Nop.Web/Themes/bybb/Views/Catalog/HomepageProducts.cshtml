@@ -1,0 +1,26 @@
+﻿@model IList<ProductOverviewModel>
+
+@using Nop.Web.Models.Catalog;
+
+@if (Model.Count > 0)
+{
+   
+    
+    <div id="specials_slider">
+        <div id="carousel_specials" class="es-carousel-wrapper">
+            <div class="es-carousel container">
+
+                <ul>
+
+                    @foreach (var item in Model)
+                    {
+                        <li class="item four columns product">
+                            @Html.Partial("_ProductBox", item)
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+}

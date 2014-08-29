@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Thank you page";
+    Layout = null;
+}
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="~/Themes/DressCode/Content/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+<script type="text/javascript" src="~/Themes/DressCode/Content/fancybox/video.js"></script>
+<script type="text/javascript" src="~/Themes/DressCode/Content/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+
+<div class="main_wrapper">
+    <a class="video" title="The Falltape" href="https://www.youtube.com/watch?v=wXERWjvLwW8?fs=1&amp;autoplay=1"><img src="~/Themes/DressCode/Content/images/1.png" alt="" /></a>
+</div>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+
+        $(".video").click(function () {
+            $.fancybox({
+                'padding': 0,
+                'autoScale': false,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'title': this.title,
+                'width': 740,
+                'height': 585,
+                'href': this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+                'type': 'swf',
+                'swf': {
+                    'wmode': 'transparent',
+                    'allowfullscreen': 'true'
+                }
+            });
+
+            return false;
+        });
+
+
+
+    });
+
+</script>

@@ -1,0 +1,213 @@
+﻿@model CategoryModel
+@using Nop.Core.Domain.Common;
+@using Nop.Core.Domain.Seo;
+
+@using Nop.Core;
+@using Nop.Web.Framework.UI
+@using Nop.Core.Infrastructure;
+@using Nop.Web.Models.Catalog;
+@using Nop.Web.Extensions;
+@{
+    Layout = "~/Views/Shared/_Root.cshtml";
+    Html.AddTitleParts(!String.IsNullOrEmpty(Model.MetaTitle) ? Model.MetaTitle : Model.Name);
+    Html.AddMetaDescriptionParts(Model.MetaDescription);
+    Html.AddMetaKeywordParts(Model.MetaKeywords);
+
+    var canonicalUrlsEnabled = EngineContext.Current.Resolve<SeoSettings>().CanonicalUrlsEnabled;
+    if (canonicalUrlsEnabled)
+    {
+        var categoryUrl = Url.RouteUrl("Category", new { SeName = Model.SeName }, this.Request.Url.Scheme);
+        Html.AddCanonicalUrlParts(categoryUrl);
+    }
+
+    var breadcrumbDelimiter = EngineContext.Current.Resolve<CommonSettings>().BreadcrumbDelimiter;
+}
+@{
+    //current category ID
+    int currentCategoryId = 0;
+    if (Url.RequestContext.RouteData.Values["controller"].ToString().Equals("catalog", StringComparison.InvariantCultureIgnoreCase) &&
+        Url.RequestContext.RouteData.Values["action"].ToString().Equals("Category", StringComparison.InvariantCultureIgnoreCase))
+    {
+        currentCategoryId = Convert.ToInt32(Url.RequestContext.RouteData.Values["categoryId"].ToString());
+    }
+
+
+    //current manufacturer ID
+    int currentManufacturerId = 0;
+
+    //current product ID
+    int currentProductId = 0;
+
+    var webHelper = EngineContext.Current.Resolve<Nop.Core.IWebHelper>();
+    var indexwebinar=0;
+}
+<div class="container">
+    <div class="main">
+        @*category breadcrumb*@
+        @if (Model.DisplayCategoryBreadcrumb)
+        {
+
+        <div class="sixteen columns breadcrumb">
+            <ul>
+                <li>
+                    <a href="@Url.RouteUrl("HomePage")" title="@T("Categories.Breadcrumb.Top")">@T("Categories.Breadcrumb.Top")</a>
+                    <span class="delimiter">@breadcrumbDelimiter</span>
+                </li>
+                @foreach (var cat in Model.CategoryBreadcrumb)
+                    {
+                        var isLastCategory = cat.Id == Model.Id;
+                    <li>
+                        @if (isLastCategory)
+                            {
+                            <strong class="current-item">@cat.Name</strong>
+                            }
+                            else
+                            {
+                            <a href="@Url.RouteUrl("Category", new { SeName = cat.SeName })" title="@cat.Name">@cat.Name</a>
+                            <span class="delimiter">@breadcrumbDelimiter</span>
+                            }
+                    </li>
+                    }
+            </ul>
+        </div>
+        @Html.Widget("categorydetails_after_breadcrumb")
+        }
+
+        <div class="col-left sidebar four columns">
+            @* @if (IsSectionDefined("left"))
+                {
+                    @RenderSection("left")
+                }
+                else
+                {*@
+            @Html.Widget("left_side_column_before")
+            <div class="product-filters-wrapper">
+                @*filtering*@
+                @if (Model.PagingFilteringContext.PriceRangeFilter.Enabled)
+                {
+                @Html.Partial("_FilterPriceBox", Model.PagingFilteringContext.PriceRangeFilter, new ViewDataDictionary())
+                }
+                @*filtering*@
+                @if (Model.PagingFilteringContext.SpecificationFilter.Enabled)
+                {
+                @Html.Partial("_FilterSpecsBox", Model.PagingFilteringContext.SpecificationFilter, new ViewDataDictionary())
+                }
+            </div>
+            @Html.Action("CategoryNavigation", "Catalog", new { currentCategoryId = currentCategoryId, currentProductId = currentProductId })
+            @Html.Widget("left_side_column_after_category_navigation")
+            @Html.Action("ManufacturerNavigation", "Catalog", new { currentManufacturerId = currentManufacturerId })
+            @Html.Action("VendorNavigation", "Catalog")
+            @Html.Action("PopularProductTags", "Catalog")
+            @Html.Action("PollBlock", "Poll", new { systemKeyword = "LeftColumnPoll" })
+            @Html.Widget("left_side_column_after")
+            @*}*@
+        </div>
+
+        <div class="col-main twelve columns">
+            <div class="page category-page">
+                <div class="page-title">
+                    <h1>@Model.Name</h1>
+                </div>
+                <div class="page-body">
+                    <p>
+                        <script type="text/javascript">
+// <![CDATA[
+                            jQuery(document).ready(function () { jQuery('.skillbar').each(function () { jQuery(this).find('.skillbar-bar').animate({ width: jQuery(this).attr('data-percent') }, 6000); }); });
+                            // ]]></script>
+                    </p>
+                    <p>
+                        <script type="text/javascript">
+// <![CDATA[
+                            var end = new Date('09/06/2014 12:00 AM');
+                            var end1 = new Date('09/23/2014 12:00 AM');
+                            var end2 = new Date('11/02/2014 12:00 AM');
+                            var _minute = 1000 * 60;
+                            var _hour = _minute * 60;
+                            var _day = _hour * 24;
+                            var timer;
+                            function showRemaining() {
+                                var now = new Date();
+                                var distance = end - now;
+                                var distance1 = end1 - now;
+                                var distance2 = end2 - now;
+                                var days = Math.floor(distance / _day);
+                                var days1 = Math.floor(distance1 / _day);
+                                var days2 = Math.floor(distance2 / _day);
+                                document.getElementById('countdown1').innerHTML = days + '<br> Days ';
+                                document.getElementById('countdown2').innerHTML = days1 + '<br> Days ';
+                                document.getElementById('countdown3').innerHTML = days2 + '<br> Days ';
+                            }
+                            timer = setInterval(showRemaining, 1000);
+                            // ]]></script>
+                    </p>
+                    <p><span style="font-family: Segoe UI Light; font-size: large;"><span style="color: #ff6600;">Current&nbsp;Phase:</span> ALPHA PHASE</span></p>
+                    <div style="float: left; margin: 10px 10px 10px 30px;">
+                        PHASE 1
+                     <div id="countdown1" class="countdown_stats"></div>
+                    </div>
+                    <div style="float: left; margin: 10px 10px 10px 30px;">
+                        PHASE 2
+                        <div id="countdown2" class="countdown_stats"></div>
+                    </div>
+                    <div style="float: left; margin: 10px 10px 10px 30px;">
+                        PHASE 3
+                        <div id="countdown3" class="countdown_stats"></div>
+                    </div>
+                    <div style="clear: both;"></div>
+                    
+                    <p></p>
+                   
+                     <p><span style="font-family: Segoe UI Light; font-size: large;"><span style="color: #ff6600;">ALPHA PHASE:</span></span></p>
+                    <p style="padding-left: 30px;"><span style="font-size: medium;"><span style="font-family: Segoe UI Light;">
+                        Capacity: 1,000<br /></span><span style="font-family: Segoe UI Light;">
+                        BUILD AUTOMATORS required to launch: 100<br /></span><span style="font-family: Segoe UI Light;">
+                        BUILD AUTOMATORS Sold: @Model.Bybbstats.BUILDAUTOMATORSSold    <br /><br /></span></span></p>
+                  
+                    
+                <p><span style="font-family: Segoe UI Light; font-size: large;"><span style="color: #ff6600;">ALPHA PHASE Cores:</span></span><span style="color: #ff6600; font-family: Segoe UI Light; font-size: large;"></span></p>
+                  
+                    
+                    
+                  <div class="skillbar clearfix " data-percent="85%">
+                        <div class="skillbar-title" style="background: #fd7f37;"><span>PARTNER PROSPECTOR 85%</span></div>
+                        <div class="skillbar-bar" style="background: #e67e22;"></div>
+                        <div class="skill-bar-percent">85%</div>
+                    </div>
+                    <!-- End Skill Bar -->
+                    <div class="skillbar clearfix " data-percent="75%">
+                        <div class="skillbar-title" style="background: #2980b9;"><span>PARTNER PAGES</span></div>
+                        <div class="skillbar-bar" style="background: #3498db;"></div>
+                        <div class="skill-bar-percent">75%</div>
+                    </div>
+                    <!-- End Skill Bar -->
+                    <div class="skillbar clearfix " data-percent="65%">
+                        <div class="skillbar-title" style="background: #2c3e50;"><span>PARTNER PROXY</span></div>
+                        <div class="skillbar-bar" style="background: #2c3e50;"></div>
+                        <div class="skill-bar-percent">65%</div>
+                    </div>
+                    <!-- End Skill Bar -->
+                    <div class="skillbar clearfix " data-percent="95%">
+                        <div class="skillbar-title" style="background: #46465e;"><span>bybb WEBINARS</span></div>
+                        <div class="skillbar-bar" style="background: #5a68a5;"></div>
+                        <div class="skill-bar-percent">95%</div>
+                    </div>
+                   
+                    <!-- End Skill Bar -->
+                    <p><span style="font-family: Segoe UI Light; font-size: large;"><span style="color: #ff6600;">ALPHA GROUP:</span></span></p>
+                    <p style="padding-left: 30px;"><span style="font-size: medium;"><span style="font-family: Segoe UI Light;">Group Limit: @Model.Bybbstats.GroupLimit 
+                         <br /></span><span style="font-family: Segoe UI Light;">Memberships Filled: @Model.Bybbstats.MembershipsFilled<br />Memberships Remaining: @Model.Bybbstats.MembershipsRemaining<br /><br /></span></span></p>
+                    <p><span style="font-family: Segoe UI Light; font-size: large;"><span style="color: #ff6600;">PARTNER PROSPECTOR:</span></span></p>
+                    <p style="padding-left: 30px;"><span style="font-family: Segoe UI Light; font-size: large;">PARTNER PROSPECTS ordered:@Model.Bybbstats.PARTNERPROSPECTSordered <br /></span>
+                    <span style="font-family: Segoe UI Light; font-size: large;">PARTNER PROPECTS delivered: 0<br />
+                        GRATIS PARTNER PROSPECTS garnered: @Model.Bybbstats.GRATISPARTNERPROSPECTSgarnered<br />GRATIS PARTNER PROSPECTS delivered: 0<br />ALPHA PARTNER PROSPECTS garnered: @Model.Bybbstats.ALPHAPARTNERPROSPECTSgarnered<br />ALPHA PARTNER PROSPECTS delivered: 0<br /><br /></span></p>
+                    @*<p><span style="font-family: Segoe UI Light; font-size: large;"><span style="color: #ff6600;">Traffic</span>:</span></p>
+    <p style="padding-left: 30px;"><span style="font-family: Segoe UI Light; font-size: medium;">Real-time Visitors:<span style="color:#fd7f37"> Coming Soon </span><br /><br /></span></p>
+    <p style="padding-left: 30px;"><span style="font-family: Segoe UI Light; font-size: medium;">This Week vs. Last Week:<span style="color:#fd7f37"> Coming Soon </span><br /><br /></span></p>
+    <p style="padding-left: 30px;"><span style="font-family: Segoe UI Light; font-size: medium;">This Month vs. Last Month:<span style="color:#fd7f37"> Coming Soon </span><br /><br /></span></p>*@
+                    @Html.Action("Index", "CustomGoogleAnalytics")
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

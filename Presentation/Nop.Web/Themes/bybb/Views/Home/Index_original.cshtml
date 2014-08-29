@@ -1,0 +1,64 @@
+﻿@{
+    Layout = "~/Views/Shared/_ColumnsOne.cshtml";
+
+}
+<div class="page home-page">
+    <div class="page-body">
+        @Html.Widget("home_page_top")
+        <div class="sixteen columns">
+            <div class="slogan">
+                <ul>
+                    <li>
+                        <a href="@Url.RouteUrl("Topic", new {SystemName = "OriginalProducts"})">@T("ORIGINALPRODUCTS")</a>
+                    </li>
+                    <li>
+                        <a href="@Url.RouteUrl("Topic", new {SystemName = "FreeShiopping"})">@T("FREESHIPPING")</a>
+                    </li>
+                    <li>
+                        <a href="@Url.RouteUrl("Topic", new {SystemName = "CashOnDelivery"})">@T("CASHONDELIVERY")</a>
+                    </li>
+                    <li>
+                        <a href="@Url.RouteUrl("Topic", new {SystemName = "30DayReturns"})">@T("30DAYRETURNS")</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+        <div class="container">
+            <div class="main">
+               
+                <div class="col-main sixteen columns">
+                    <div class="clearfix tabs">
+                        <div><a id="bestsellers_activate">@T("Bestsellers")</a><span>/</span></div>
+                        <div><a id="specials_activate">@T("HomePage.Products")</a><span>/</span></div>
+                        <div><a id="newproducts_activate">@T("Products.NewProducts")</a></div>
+
+                    </div>
+
+                </div>
+
+                <div>
+                    <div class="list_carousel responsive">
+                        <div class="clear"></div>
+                    </div>
+                </div>
+
+
+                <div class="sixteen columns alpha all_slider_wrapper">
+                  
+                    @Html.Action("HomepageBestSellers", "Catalog")
+                    @Html.Action("HomepageProducts", "Catalog")
+                    @Html.Action("RecentlyAddedProducts", "Catalog")
+
+                </div>
+
+            </div>
+        </div>
+
+
+        @Html.Action("HomepageCategories", "Catalog")
+        @Html.Action("HomePageNews", "News")
+        @Html.Action("HomePagePolls", "Poll")
+        @Html.Widget("home_page_bottom")
+    </div>
+</div>

@@ -1,0 +1,193 @@
+﻿@model ProductDetailsModel
+@using Nop.Core.Domain.Seo;
+@using Nop.Core.Infrastructure;
+@using Nop.Web.Models.Catalog;
+@{
+    Layout = "~/Views/Shared/_ColumnsOne.cshtml";
+
+    //title, meta
+    Html.AddTitleParts(!String.IsNullOrEmpty(Model.MetaTitle) ? Model.MetaTitle : Model.Name);
+    Html.AddMetaDescriptionParts(Model.MetaDescription);
+    Html.AddMetaKeywordParts(Model.MetaKeywords);
+
+    var canonicalUrlsEnabled = EngineContext.Current.Resolve<SeoSettings>().CanonicalUrlsEnabled;
+    if (canonicalUrlsEnabled)
+    {
+        var productUrl = Url.RouteUrl("Product", new { SeName = Model.SeName }, this.Request.Url.Scheme);
+        Html.AddCanonicalUrlParts(productUrl);
+    }
+}
+<div class="container">
+<div class="main">
+<!--product breadcrumb-->
+@Html.Action("ProductBreadcrumb", "Catalog", new { productId = Model.Id })
+<div class="page product-details-page">
+    <div class="page-body">
+        @Html.Widget("productdetails_top")
+        @using (Html.BeginRouteForm("Product", new { SeName = Model.SeName }, FormMethod.Post, new { id = "product-details-form" }))
+        {
+            <div itemscope itemtype="http://schema.org/Product" data-productid="@Model.Id">
+                <div class="product-essential">
+                    @Html.Widget("productdetails_before_pictures")
+                    <!--product pictures-->
+                    @Html.Partial("_ProductDetailsPictures", Model)
+                    @Html.Widget("productdetails_after_pictures")
+                    <div class="overview eight columns">
+                        <div class="product-name">
+                            <h1 itemprop="name">
+                                @Model.Name
+                            </h1>
+                        </div>
+                        @if (!String.IsNullOrEmpty(Model.ShortDescription))
+                        {
+                            <div class="short-description">
+                                @Html.Raw(Model.ShortDescription)
+                            </div>
+                        }
+                        @Html.Widget("productdetails_overview_top")
+                        <!--product manufacturers-->
+                        @Html.Action("ProductManufacturers", "Catalog", new { productId = Model.Id })
+                        <!--product reviews-->
+                        @Html.Action("ProductReviewOverview", "Catalog", new { productId = Model.Id })
+                        @Html.Action("ProductEmailAFriendButton", "Catalog", new { productId = Model.Id })
+                        @Html.Action("CompareProductsButton", "Catalog", new { productId = Model.Id })
+                        @Html.Action("ShareButton", "Catalog")
+                        @Html.Widget("productdetails_overview_bottom")
+                    </div>
+                    <div class="dresscode_product_custom_block three columns ">
+                        <div class="dresscode_product_custom_block_title">PRODUCT CUSTOM BLOCK</div>
+                        @*<div class="dresscode_product_custom_block_subtitle">You can add your content here, like promotions or some additional info</div>
+                        <div class="custom_block_items">                            
+                            <div class="custom_block_item custom_block_item_1">
+                                <span>Special offer: 1+1=3 Get a gift!</span>
+                            </div>
+                             <div class="custom_block_item custom_block_item_2">
+                                <span>free Reward Card Worth $10, $50, $100.</span>
+                            </div>
+                            <div class="custom_block_item custom_block_item_3">
+                                <span>Join to our Club</span>
+                            </div>
+                        </div>*@
+                        <div class="custom_block_items">                            
+                            <div class="text">
+                                @Html.Action("TopicBlock", "Topic", new { systemName = "CustomBlock" })
+                            </div>
+                            @if(@Model.IsFreeShipping)
+                            {
+                                <div class="custom_block_item custom_block_item_4">
+                                    <span>@T("product.details.freeshipping")</span>     
+                                </div>                               
+                            }                            
+                        </div>                        
+                   </div>
+
+                    @if (!String.IsNullOrEmpty(Model.FullDescription))
+                    {
+                        <div class="full-description" itemprop="description">
+                            @Html.Raw(Model.FullDescription)
+                        </div>
+                    }
+                </div>
+                @Html.Widget("productdetails_before_collateral")
+                <div class="product-collateral">
+                    <!--associated products-->
+                    <div class="product-variant-list">
+                        @foreach (var variant in Model.AssociatedProducts)
+                        {
+                            <div class="product-variant-line four columns" data-productid="@variant.Id">
+                                @if (!String.IsNullOrWhiteSpace(variant.DefaultPictureModel.ImageUrl))
+                                {
+                                    <div class="variant-picture">
+                                        <img alt="@variant.DefaultPictureModel.AlternateText" src="@variant.DefaultPictureModel.ImageUrl"
+                                             title="@variant.DefaultPictureModel.Title" id="main-product-img-@variant.Id" />
+                                    </div>
+                                }
+                                <div class="variant-overview">
+                                    @if (!String.IsNullOrWhiteSpace(variant.Name))
+                                    {
+                                        <div class="variant-name">
+                                            @variant.Name
+                                        </div>
+                                    }
+                                    @if (!String.IsNullOrWhiteSpace(variant.ShortDescription))
+                                    {
+                                        <div class="variant-description">
+                                            @Html.Raw(variant.ShortDescription)
+                                        </div>
+                                    }
+                                    @Html.Partial("_DownloadSample", variant)                                    
+                                    @{
+                                    var dataDictAttributes = new ViewDataDictionary();
+                                    dataDictAttributes.TemplateInfo.HtmlFieldPrefix = string.Format("attributes_{0}", variant.Id);
+                                        @Html.Partial("_ProductAttributes", variant.ProductVariantAttributes, dataDictAttributes)                  
+                                    }
+                                    <!--product SKU, manufacturer part number, stock info-->
+                                    @Html.Partial("_SKU_Man_Stock", variant)
+                                    <!--Back in stock subscription-->
+                                    @Html.Partial("_BackInStockSubscription", variant)
+                                    @{
+                                    var dataDictGiftCard = new ViewDataDictionary();
+                                    dataDictGiftCard.TemplateInfo.HtmlFieldPrefix = string.Format("giftcard_{0}", variant.Id);
+                                        @Html.Partial("_GiftCardInfo", variant.GiftCard, dataDictGiftCard)
+                                    }
+                                    @{
+                                    var dataDictPrice = new ViewDataDictionary();
+                                    dataDictPrice.TemplateInfo.HtmlFieldPrefix = string.Format("price_{0}", variant.Id);
+                                        @Html.Partial("_ProductPrice", variant.ProductPrice, dataDictPrice)
+                                    }
+                                    @{
+                                    var dataDictAddToCart = new ViewDataDictionary();
+                                    dataDictAddToCart.TemplateInfo.HtmlFieldPrefix = string.Format("addtocart_{0}", variant.Id);
+                                        @Html.Partial("_AddToCart", variant.AddToCart, dataDictAddToCart)
+                                    }
+                                </div>
+                            </div>
+                        }
+                        @if (Model.AssociatedProducts.Count == 0)
+                        {
+                            <div class="no-associated-products">
+                                @T("Products.NoAssociatedProducts")
+                            </div>
+                        }
+                    </div>
+                   <div id="tabs" class="product-collateral">
+                    <ul>
+                        <li><a href="#tabs-1">@T("product.details.tab.description")</a></li>
+                        @*<li><a href="#tabs-2">@T("product.details.tab.tierprices")</a></li>*@
+                        <li><a href="#tabs-3">@T("product.details.tab.generalinfo")</a></li>
+                        <li><a href="#tabs-4">@T("product.details.tab.tags")</a></li>
+                        @*<li><a href="#tabs-5">@T("product.details.tab.productsalsopurchased")</a></li>*@
+                        <li><a href="#tabs-6">@T("product.details.tab.RelatedProducts")</a></li>
+                    </ul>
+                    <div id="tabs-1">
+                        @if (!String.IsNullOrEmpty(Model.FullDescription))
+                        {
+                            <div class="full-description" itemprop="description">
+                                @Html.Raw(Model.FullDescription)
+                            </div>
+                        }
+                    </div>
+                    <div id="tabs-2">
+                        @Html.Action("ProductTierPrices", "Catalog", new { productId = Model.Id })
+                    </div>
+                    <div id="tabs-3">
+                        @Html.Action("ProductSpecifications", "Catalog", new { productId = Model.Id })
+                    </div>
+                    <div id="tabs-4">
+                        @Html.Action("ProductTags", "Catalog", new { productId = Model.Id })
+                    </div>
+                    <div id="tabs-5">
+                        @Html.Action("ProductsAlsoPurchased", "Catalog", new { productId = Model.Id })
+                    </div>
+                    <div id="tabs-6">
+                        @Html.Action("RelatedProducts", "Catalog", new { productId = Model.Id })
+                    </div>
+                </div>
+                </div>
+            </div>
+        }
+        @Html.Widget("productdetails_bottom")
+    </div>
+</div>
+</div>
+</div>

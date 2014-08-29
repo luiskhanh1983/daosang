@@ -1,0 +1,164 @@
+﻿@model TopMenuModel
+@using Nop.Plugin.Misc.ThemeHelper.Models;
+@{
+    var isRtl = this.ShouldUseRtlTheme();
+    
+}
+@helper RenderCategoryLine(CategorySimpleModel category, int level)
+{ 
+        <a href="@Url.RouteUrl("Category", new { SeName = category.SeName })">@category.Name
+            @if (category.NumberOfProducts.HasValue)
+            {
+                <text> </text>@T("Categories.TotalProducts", category.NumberOfProducts.Value)
+            }
+        </a>
+        {
+            
+            var levelClass = "";
+            if (level == 0)
+            {
+                levelClass = "firstLevel";
+            <div class="top-menu-triangle"></div>
+            }
+            if (category.SubCategories.Count > 0)
+            {
+            <ul class="sublist @levelClass">
+                @if(category.SubCategories.Count == 1)
+                {
+                    <li class="col-1">
+                    @RenderCategoryLine(category.SubCategories[0], level + 1)   
+                    </li>
+                }
+                @if(category.SubCategories.Count == 2)
+                {
+                    <li class="col-1">
+                    @RenderCategoryLine(category.SubCategories[0], level + 1)   
+                    </li>
+                    <li class="col-2">
+                    @RenderCategoryLine(category.SubCategories[1], level + 1)   
+                    </li>
+                }   
+                else
+                { 
+                int divNo = category.SubCategories.Count / 3;
+                int temp = divNo;
+                <li class="col-1">
+                    @for (int i = 0; i < divNo; i++)
+                    {
+                       @RenderCategoryLine(category.SubCategories[i], level + 1)     
+                    }
+                </li>
+                
+                <li class="col-2">
+                    @for (int i = divNo; i < temp + divNo; i++)
+                    {
+                       @RenderCategoryLine(category.SubCategories[i], level + 1)     
+                    }
+                </li>
+                    
+                <li class="col-3">
+                    @for (int i = temp + divNo; i < temp + divNo + divNo; i++)
+                    {
+                       @RenderCategoryLine(category.SubCategories[i], level + 1)     
+                    }
+                </li>
+                
+                }
+                @*@foreach (var subCategory in category.SubCategories)
+                {
+                    <li>
+                    @RenderCategoryLine(subCategory, level + 1)
+                    </li>
+                }*@
+              
+               
+            </ul>
+            }
+        }
+    
+    
+}
+<div id="menu_block_head">
+<div class="nav_block_head_field"> Select category... </div>
+<span class="menu_block_head_button"> </span>
+<div class="clear"></div>
+</div>
+<div>
+<ul class="top-menu">
+    @Html.Widget("header_menu_before")
+    <li><a href="@Url.RouteUrl("HomePage")">@T("HomePage")<span class="home_icon"></span></a></li>
+    @if (Model.Categories.Count > 0)
+{
+    int i = 0;
+    foreach (var category in Model.Categories)
+    {
+        <li class="menu-@i @(category.Id == Model.CurrentCategoryId ? "actived" : "inactived")">
+            @RenderCategoryLine(category, 0)
+        </li>
+        i++;
+    }
+}
+else
+{
+    //no categories to display?
+    //in this cae let's diplay some default menu items
+    if (Model.RecentlyAddedProductsEnabled)
+    {
+        <li><a href="@Url.RouteUrl("RecentlyAddedProducts")">@T("Products.NewProducts")</a>
+        </li>
+        }
+        <li><a href="@Url.RouteUrl("ProductSearch")">@T("Search")</a> </li>
+        <li><a href="@Url.RouteUrl("CustomerInfo")">@T("Account.MyAccount")</a></li>
+        if (Model.BlogEnabled)
+        {
+        <li><a href="@Url.RouteUrl("Blog")">@T("Blog")</a></li>
+        }
+        if (Model.ForumEnabled)
+        {
+        <li><a href="@Url.RouteUrl("Boards")">@T("Forum.Forums")</a></li>
+        }
+        <li><a href="@Url.RouteUrl("ContactUs")">@T("ContactUs")</a></li>
+    }
+    @Html.Widget("header_menu_after")
+</ul>
+</div>
+<script type="text/javascript">
+    $('li', '.top-menu').on('mouseenter', function () {
+        $('a', $(this)).first().addClass('hover');
+        if (!$(this).parent().hasClass('top-menu')) {
+            var width = $(this).innerWidth();
+            $('.sublist', $(this)).first().css('@(isRtl ? "right" : "left")', width + 15);
+        }
+        $('.sublist', $(this)).first().addClass('active');
+        $('.top-menu-triangle', $(this)).addClass('active');
+    });
+    $('li', '.top-menu').on('mouseleave', function () {
+        $('a', $(this)).first().removeClass('hover');
+        $('.sublist', $(this)).first().removeClass('active');
+        $('.top-menu-triangle', $(this)).removeClass('active');
+    });
+
+
+    $(document).ready(function () {
+        jQuery('#menu_block_head').click(function () {
+            jQuery('.top-menu').toggleClass('visible_on');
+            
+        });
+    });
+    function highlightMenuItem(menuitem) {
+        $('.top-menu li').each(function (index) {
+            $(this).css('background-color', 'orange')
+        });
+
+        $(menuitem).css('background-color', 'green');
+    }
+</script>
+<style  type="text/css">
+    .actived {
+        background-color:#fd7f37;
+    }
+    .inactived {
+        background-color:white;
+    }
+</style>
+

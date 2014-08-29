@@ -1,0 +1,28 @@
+﻿@model CurrencySelectorModel
+@using Nop.Web.Models.Common;
+@using Nop.Core;
+@using Nop.Core.Infrastructure;
+@using Nop.Core.Infrastructure.DependencyManagement;
+@if (Model.AvailableCurrencies.Count > 1)
+{
+    var webHelper = EngineContext.Current.Resolve<IWebHelper>();
+    
+<ul>
+    @foreach (var curr in Model.AvailableCurrencies)
+    {
+
+        if (Model.CurrentCurrencyId == curr.Id)
+            {
+          <li class="current-language-currency">
+        <a style="background-color:transparent !important;" href="@webHelper.ModifyQueryString(Url.RouteUrl("ChangeCurrency", new { customercurrency = curr.Id }), "returnurl=" + HttpUtility.UrlEncode(HttpContext.Current.Request.RawUrl), null)" title="@curr.Name">
+            @curr.CurrencySymbol</a></li>
+            }
+            else
+            {
+         <li><a href="@webHelper.ModifyQueryString(Url.RouteUrl("ChangeCurrency", new { customercurrency = curr.Id }), "returnurl=" + HttpUtility.UrlEncode(HttpContext.Current.Request.RawUrl), null)" title="@curr.Name">
+            @curr.CurrencySymbol</a></li>
+            }        
+    }
+</ul>
+  
+}

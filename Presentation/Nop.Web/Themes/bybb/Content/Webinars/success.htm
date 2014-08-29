@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0107)http://webinarjam.com/members/dashboard/preview/preview.php?page=thankyou&webicode=8fa791fb2a&memberid=1444 -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<link href="css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="editor.css">
+
+<title>Thank You!</title>
+<link rel="shortcut icon" href="http://webinarjam.com/members/dashboard/preview/images/favicon.ico">
+
+<script>
+// -------------------------- Fixed sidebar -------------------------- //
+$(window).scroll(function(){
+$("#theFixed").css("top",Math.max(10,65-$(this).scrollTop()));
+});
+</script>
+
+
+<script>
+
+$(document).ready(function(){ 
+
+
+	
+	$('#sms-set').click(function() {
+		
+		var ccode = $("#countrycode").val();
+		var pnum = $("#phone-number-input").val();
+		
+		if($.trim(ccode) == '' || $.trim(ccode) == 0) {
+			alert('please select country code');	
+			return false;
+		}
+		if($.trim(pnum) == '') {
+			alert('please enter Phone number');
+			return false;	
+		}
+		
+
+		alert('sorry this page is a preview mode only');
+		return false;	
+
+
+		
+	});
+	
+ 
+
+
+});
+
+
+</script>   
+
+<style type="text/css">
+.google-calendar {
+background-image: url("https://s3.amazonaws.com/webinarjam/images/languages/english/google-calendar2.png");
+}
+.i-calendar {
+background-image: url("https://s3.amazonaws.com/webinarjam/images/languages/english/i-cal2.png");
+}
+
+.sms-set-button {
+background-image: url(https://s3.amazonaws.com/webinarjam/images/languages/english/sms-set-button.png);
+}
+
+
+
+</style>
+<style type="text/css"></style></head>
+
+<body>
+<div id="ajaxloader" style="display: none; color: rgb(255, 255, 255); font-family: Tahoma, Arial, Helvetica, sans-serif; height: 50px; padding-top: 10px; position: fixed; text-align: center; top: 0px; width: 100%; z-index: 10000000000; background-color: rgba(0, 0, 0, 0.8);"><div class="loading"><img src="loader2.gif" style="border:none;"><br><span>Generating preview… please wait......</span></div></div>
+
+
+<div class="topbar-itsallpaidup">
+<div style="width:940px; margin:auto;">
+<h1 style="font-size:48px; color: #fff; margin-top:0px; font-weight:normal;"><b>Congratulations...</b> You've been registered!</h1>
+</div>
+</div>
+
+
+	<div class="wrapper">
+		<div class="main-content-area">
+	
+			
+			<!-- start of column1 -->
+			<div class="content-column1">
+            
+            
+            
+            <!-- START OF WEBINAR DETAILS BOX -->
+                  <div class="thank-you-register-optin" id="theFixedXXXXXXXX">
+					<div class="header-optin">
+						<p>WEBINAR DETAILS</p>
+					</div> 
+					<div class="main-optin">
+						
+						<ul>
+							<li><img src="webinar-icon.png" style="float:left; margin-right: 10px;padding-top: 3px;"><span style="font-weight: bold;">Webinar:</span>
+							<input type="text" placeholder="Webinar Title"></li>
+							<li><img src="man-avatar.png" style="float:left; margin-right: 10px;padding-bottom: 5px; margin-top:2px;"><span style="font-weight: bold;">Presenters:</span><input type="text" placeholder="Who Presents"></li>
+							<li><img src="calendar-icon-small.png" style="float:left; margin-right: 10px;padding-top: 0px;"><span style="font-weight: bold;">Date:</span>
+							<input type="text" placeholder="Date of the Webinar"></li>
+							<li class="last-item"><img src="sched-icon.png" style="float:left; margin-right: 10px;padding-top: 0px;"><span style="font-weight: bold;">Time:</span><input type="text" placeholder="Time of the Webinar"></li>
+						</ul>
+						
+						
+					</div>
+					
+					<div class="webinar-link">
+						<p style="color: #FFFFFF; font-size: 18px; font-weight:bold;"><img src="unique-link.png" style="padding-right: 10px;">Here is your link to the webinar:</p>
+						<div class="unique-link-copy">
+						<input type="text" id="link" placeholder="Link to the Webinar">
+						</div>
+                       <p style="color: #ffc4c4; font-size: 16px; font-weight:normal; margin-top:5px;">(*) Save and bookmark this URL to access the webinar</p>
+					</div>
+				</div>
+		</div>
+			
+            <!-- END OF WEBINAR DETAILS BOX -->
+
+			<!-- start of column2 -->
+			<div class="content-column2">
+                            
+                 <!-- START OF CALENDAR REMINDER BOX -->
+				<div class="schedules-calendar">
+               
+					<div>
+                    
+					<p style="font-size: 22px; color:#5c5c5c;"><img src="calendar-icon3.png" width="30" height="30" style="margin:0px 10px -8px 0px;"> Schedule a reminder on your calendar</p>
+					<p style="border-bottom: 1px dotted #e3e3e3; color:#ccc;font-size: 28px; margin-top: 10px;"></p>
+					
+					</div>
+					
+					
+					<div class="schedule-calendar">
+                    	<a href="http://www.google.com/calendar/event?action=TEMPLATE&text=WEBINAR%20ALERT&dates=19691231T{$hour}{$min}00Z/19691231T{$hour}5900Z&details=&location=&trp=false&sprop=webinarjam.com&sprop=name:name:Sysadmin" target="_blank">
+						<div class="google-calendar"></div>
+                        </a>
+                        <a href="http://webinarjam.com/members/dashboard/preview/includes/vcs.php?memberid=1444&webicode=8fa791fb2a" target="_blank">
+						<div class="i-calendar"></div>
+                        </a>
+					</div>
+					
+					<div class="clear">
+					</div>
+				</div>
+                <!-- END OF CALENDAR REMINDER BOX -->
+                
+                 			</div>
+			<!-- end of column2 -->
+		</div>
+	</div>
+	<div class="clear">	</div>
+	
+	<div class="thank-you-page-footer">
+		<div class="wrapper">
+		<p style="text-align:left;">bybb Marketing 2014 © All Rights Reserved</p>
+		</div>
+	</div>
+	
+	<div class="clear">
+	</div>
+<script>
+	setTimeout(function(){
+  	  $("#ajaxloader").fadeOut("slow");
+    },1000);
+</script>
+<script type="text/javascript">
+    $(function(){
+        $(document).on('click','#link',function(){ this.select(); });
+    });
+</script>
+
+</body></html>

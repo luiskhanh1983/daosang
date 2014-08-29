@@ -1,0 +1,372 @@
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.pdb
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Autofac.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Telerik.Web.Mvc.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\WebActivator.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\WebGrease.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\itextsharp.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.pdb
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.pdb
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.pdb
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.pdb
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Autofac.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.pdb
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.pdb
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.xml
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\de\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\es\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\fr\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\it\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\ko\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\nl\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\pl\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\pt\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\ru\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\sv\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\bin\Debug\tr\FluentValidation.resources.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.dll
+D:\Projects\SuperNopCommerce320Themes\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Autofac.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Telerik.Web.Mvc.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\WebActivator.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\WebGrease.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\itextsharp.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Autofac.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.pdb
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.xml
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\de\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\es\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\fr\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\it\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\ko\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\nl\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\pl\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\pt\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\ru\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\sv\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\tr\FluentValidation.resources.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.dll
+F:\DRESSCODE FULL\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Autofac.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Telerik.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\WebActivator.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\WebGrease.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Autofac.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.pdb
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.xml
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.dll
+C:\Users\ADMIN\Downloads\Compressed\NopCommerce320\NopCommerce320\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.pdb
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.pdb
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Telerik.Web.Mvc.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\WebActivator.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\WebGrease.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\itextsharp.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.pdb
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.pdb
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.pdb
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.pdb
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.pdb
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.pdb
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.xml
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\de\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\es\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\fr\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\it\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\ko\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\nl\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\pl\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\pt\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\ru\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\sv\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\tr\FluentValidation.resources.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.dll
+D:\AFFILLMENT\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Telerik.Web.Mvc.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\WebActivator.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\WebGrease.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\itextsharp.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.pdb
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.xml
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\de\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\es\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\fr\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\it\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\ko\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\nl\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\pl\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\pt\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\ru\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\sv\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\tr\FluentValidation.resources.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.dll
+E:\inportant\AFFILLMENT\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.pdb
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.pdb
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Telerik.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\WebActivator.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\WebGrease.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Core.pdb
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Data.pdb
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Nop.Services.pdb
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.pdb
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\FluentValidation.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\Recaptcha.pdb
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Optimization.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\MaxMind.GeoIP2.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\EPPlus.xml
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.dll
+C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.pdb

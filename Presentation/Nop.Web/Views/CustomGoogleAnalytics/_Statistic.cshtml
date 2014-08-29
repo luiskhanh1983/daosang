@@ -1,0 +1,7 @@
+﻿@using Nop.Web.Models.CustomGoogleAnalytics
+@model AnalyticsResultModel
+
+<p><span style="font-family: Segoe UI Light; font-size: large;"><span style="color: #ff6600;">Traffic</span>:</span></p>
+<p style="padding-left: 30px;"><span style="font-family: Segoe UI Light; font-size: medium;">Real-time Visitors:<span style="color: #fd7f37"> @Model.RealTimeCount </span><br /><br /></span></p>
+<p style="padding-left: 30px;"><span style="font-family: Segoe UI Light; font-size: medium;">This Week vs. Last Week:<span style="color: #fd7f37"> @Model.ThisWeekCount - @Model.LastWeekCount </span><br /><br /></span></p>
+<p style="padding-left: 30px;"><span style="font-family: Segoe UI Light; font-size: medium;">This Month vs. Last Month:<span style="color: #fd7f37"> @Model.ThisMonthCount - @Model.LastMonthCount </span><br /><br /></span></p>

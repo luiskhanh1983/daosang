@@ -1,0 +1,32 @@
+@model ProductDetailsModel
+@using Nop.Core.Domain.Media
+@using Nop.Core.Infrastructure
+@using Nop.Web.Models.Catalog;
+@{
+    Html.AddScriptParts("~/Scripts/slimbox2.js");
+    Html.AddScriptParts("~/Themes/bybb/Content/script/cloud-zoom.1.0.2.min.js");
+
+    int productPerRow = EngineContext.Current.Resolve<MediaSettings>().ProductThumbPerRowOnProductDetailsPage;
+}
+
+
+<div class="gallery four columns">
+    <div class="product-img-box">
+        <p class="product-image">
+            <div id="wrap">
+                <a rel="position:'right',showTitle:0,titleOpacity:0.5,lensOpacity:0.5,adjustX: 10,adjustY:-4" id="zoom1" chref="@Model.DefaultPictureModel.FullSizeImageUrl" style="position: relative; display: block;">
+
+                    <img alt="@Model.DefaultPictureModel.AlternateText" width="275" src="@Model.DefaultPictureModel.ImageUrl" title="@Model.DefaultPictureModel.Title" itemprop="image" id="main-product-img-@Model.Id" />
+                </a>
+            </div>
+        </p>
+
+
+    </div>
+</div>
+
+
+
+
+
+

@@ -1,0 +1,159 @@
+﻿@{
+    Layout = "~/Views/Shared/_ColumnsOne.cshtml";
+
+}
+<div class="page home-page">
+    <div class="page-body">
+        @Html.Widget("home_page_top")
+        <div class="sixteen columns">
+            <div class="slogan">
+                <!-- <ul>
+                    <li>
+                        <a href="@Url.RouteUrl("Topic", new {SystemName = "OriginalProducts"})">@T("ORIGINALPRODUCTS")</a>
+                    </li>
+                    <li>
+                        <a href="@Url.RouteUrl("Topic", new {SystemName = "FreeShiopping"})">@T("FREESHIPPING")</a>
+                    </li>
+                    <li>
+                        <a href="@Url.RouteUrl("Topic", new {SystemName = "CashOnDelivery"})">@T("CASHONDELIVERY")</a>
+                    </li>
+                    <li>
+                        <a href="@Url.RouteUrl("Topic", new {SystemName = "30DayReturns"})">@T("30DAYRETURNS")</a>
+                    </li>
+
+                </ul> -->
+            </div>
+            <!-- web font  -->
+            <link href='https://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+            <div class="col-md-12" style="width:100%; text-align:center; background:#fd7f37; padding: 50px 0; position:relative;">
+                <div style="position:absolute; right: 0; top:0; opacity: 0.5;"><img src="~/Themes/bybb/Content/images/y.png" width="200"></div>
+                <div style="clear:both"></div>
+                <h1 style="text-transform:none; color:#fff; font-family: 'Oswald',sans-serif !important; font-size:44px;">bybb MARKETING SYSTEM </h1>
+                <h3 style="color:#fff; font-family: 'Oswald',sans-serif !important; font-size:20px;"> PHASE 1 COMING SOON... </h3>
+                <div id="defaultCountdown"></div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="main">
+
+                <div class="col-main sixteen columns">
+                    <div class="clearfix tabs">
+                        <div><a id="bestsellers_activate">@T("Bestsellers")</a><span>/</span></div>
+                        <div><a id="specials_activate">@T("HomePage.Products")</a><span>/</span></div>
+                        <div><a id="newproducts_activate">@T("Products.NewProducts")</a></div>
+                    </div>
+
+                    <link rel="stylesheet" type="text/css" href="~/Themes/bybb/Content/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+
+                    <script type="text/javascript" src="~/Themes/bybb/Content/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+
+                    <!-- Countdown Stuff -->
+                    <script type="text/javascript" src="../../Content/countdown/js-plugin/respond/respond.min.js"></script>
+                    <script type="text/javascript" src="../../Content/countdown/bootstrap/js/bootstrap.js"></script>
+                    <script type="text/javascript" src="../../Content/countdown/js-plugin/easing/jquery.easing.1.3.js"></script>
+                    <script type="text/javascript" src="../../Content/countdown/js-plugin/jquery.countdown.package-1.6.3/jquery.countdown.js"></script>
+                    <script type="text/javascript">
+                        $(function () {
+                            var austDay = new Date();
+                            austDay = new Date('Sep, 6, 2014');
+                            $('#defaultCountdown').countdown({ until: austDay });
+                        });
+                    </script>
+                    <!-- End of Countdown Stuff -->
+                </div>
+
+
+                <div>
+                    <div class="list_carousel responsive">
+                        <div class="clear"></div>
+                    </div>
+                </div>
+
+
+                <div class="sixteen columns alpha all_slider_wrapper">
+
+                    @Html.Action("HomepageBestSellers", "Catalog")
+                    @Html.Action("HomepageProducts", "Catalog")
+                    @Html.Action("RecentlyAddedProducts", "Catalog")
+
+                </div>
+            </div>
+            <div class="videos-block">
+                <div class="videos-wrapper">
+                    <ul>
+                        <a class="video" href="https://www.youtube.com/v/4-U-DH-aBZs?fs=1&amp;autoplay=1"><li class="item-video" id="first-item"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption">REGISTRATION</span><span class="item-description">Here a short video tidbit on the registration process.</span></li></a>
+                        <a class="video" href="https://www.youtube.com/v/ldo4GrDUXWQ?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption">ALPHA GROUP</span><span class="item-description">This video details ordering your membership.</span></li></a>
+                        <a class="video" href="https://www.youtube.com/v/iK4ImIRgiuQ?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption">BUILD AUTOMATOR </span><span class="item-description">Curious how to get your BA 100 going?</span></li></a>
+                        <a class="video" href="https://www.youtube.com/v/wXERWjvLwW8?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption">INTRODUCTION</span><span class="item-description">Hi, Sharing Partner, this video can give you a good idea of the system.</span></li></a>
+                        @*<a class="video" href="https://www.youtube.com/v/pFinxl4-HDY&list=UUDwklNHXCsyyxvUapeZRplA?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption">OVERVIEW</span><span class="item-description">Interested in what the PROSPECTS may see?</span></li></a>*@
+                    </ul>
+                </div>
+                <div class="cleaner"></div>
+            </div>
+        </div>
+
+
+        @Html.Action("HomepageCategories", "Catalog")
+        @Html.Action("HomePageNews", "News")
+        @Html.Action("HomePagePolls", "Poll")
+        @Html.Widget("home_page_bottom")
+    </div>
+
+</div>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $('#video-intro').fancybox({
+            openEffect: 'none',
+            closeEffect: 'none',
+            prevEffect: 'none',
+            nextEffect: 'none',
+            arrows: false,
+            width: 740,
+            height: 460,
+            helpers: {
+                media: {},
+                buttons: {}
+            },
+            type: "iframe"
+        }).trigger("click");
+        setTimeout("parent.$.fancybox.close()", 495000);
+    });
+    jQuery(document).ready(function () {
+
+        $(".video").click(function () {
+            $.fancybox({
+                'padding': 0,
+                'autoScale': false,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'title': this.title,
+                'width': 640,
+                'height': 385,
+                'href': this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+                'type': 'swf',
+                'swf': {
+                    'wmode': 'transparent',
+                    'allowfullscreen': 'true'
+                }
+
+            });
+
+            return false;
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.videos-wrapper a.video .item-video').mouseover(function () {
+            $(this).next('.item-caption').fadeOut(300);
+          //  $('.item-caption').fadeOut(300);
+           // $('.item-description').fadeIn(300);
+        });
+        $('.videos-wrapper a.video .item-video').mouseleave(function () {
+
+            $('.item-caption').fadeIn(300);
+            $('.item-description').fadeOut(300);
+        });
+    });
+</script>

@@ -1,0 +1,118 @@
+﻿@model ProductOverviewModel
+@using Nop.Core.Domain.Orders
+@using Nop.Web.Models.Catalog;
+@{
+    //prepare "Add to cart" AJAX link
+    string addtocartlink = "";
+    var shoppingCartTypeId = (int)ShoppingCartType.ShoppingCart;
+    var quantity = 1;
+    if (Model.ProductPrice.ForceRedirectionAfterAddingToCart)
+    {
+        addtocartlink = Url.RouteUrl("AddProductToCart-Catalog", new { productId = Model.Id, shoppingCartTypeId = shoppingCartTypeId, quantity = quantity, forceredirection = Model.ProductPrice.ForceRedirectionAfterAddingToCart });
+    }
+    else
+    {
+        addtocartlink = Url.RouteUrl("AddProductToCart-Catalog", new { productId = Model.Id, shoppingCartTypeId = shoppingCartTypeId, quantity = quantity, });
+    }    
+}
+
+<div class="product-item" data-productid="@Model.Id">
+ <div class="phase">
+        <script type="text/javascript">
+            var target_date = new Date("Sep, 6, 2014").getTime();
+            var days;
+            var countdown = $(".classcountdown");
+            setInterval(function () {
+            var current_date = new Date().getTime();
+            var seconds_left = (target_date - current_date) / 1000;
+            days = parseInt(seconds_left / 86400);
+            seconds_left = seconds_left % 86400;
+            $(countdown).html(days+"<br>DAYS");
+            }, 1000);
+        </script>
+
+        @if (Model.Id == 57 || Model.Id == 56 || Model.Id == 62)
+        {
+            <!-- <img src="@Url.Content("~/Themes/bybb/Content/images/phase1.png")" alt="IMAGES phase 1" /> -->
+            <div id="countdown" class="classcountdown"></div>
+        }
+        else
+        {
+            <!-- <img src= "@Url.Content("~/Themes/bybb/Content/images/alpha_phase.png")" alt="IMAGES alpha" /> -->
+            <div> READY </div>
+        }
+    </div>
+    <div class="picture product-image-wrapper" id="productImageWrapID_@Model.Id">
+        <a href="@Url.RouteUrl("Product", new { SeName = Model.SeName })" title="@Model.DefaultPictureModel.Title">
+            <img class="scale-with-grid" alt="@Model.DefaultPictureModel.AlternateText" src="@Model.DefaultPictureModel.ImageUrl" title="@Model.DefaultPictureModel.Title" />
+            <img class="roll_over_img" alt="@Model.DefaultPictureModel.SecondAlternateText" src="@Model.DefaultPictureModel.SecondImageUrl" title="@Model.DefaultPictureModel.SecondTitle" />
+        </a>
+    </div>
+    <div class="details">
+        @if(ViewBag.ViewMode == "grid")
+        {
+            <div class="prices">
+                @if (!String.IsNullOrEmpty(Model.ProductPrice.OldPrice))
+                {
+                    <span class="price old-price">@Model.ProductPrice.OldPrice</span>
+                }
+                <span class="price actual-price">@Model.ProductPrice.Price</span>
+            </div>
+        }
+        @if(ViewBag.ViewMode ==null)
+        {
+            <div class="prices">
+                @if (!String.IsNullOrEmpty(Model.ProductPrice.OldPrice))
+                {
+                    <span class="price old-price">@Model.ProductPrice.OldPrice</span>
+                }
+                <span class="price actual-price">@Model.ProductPrice.Price</span>
+            </div>
+        }
+        <h2 class="product-title">
+            <a href="@Url.RouteUrl("Product", new { SeName = Model.SeName })">@Model.Name</a>
+        </h2>
+
+        @if (ViewBag.ViewMode == "list")
+        {
+            <div class="prices">
+                @if (!String.IsNullOrEmpty(Model.ProductPrice.OldPrice))
+                {
+                    <span class="price old-price">@Model.ProductPrice.OldPrice</span>
+                }
+                <span class="price actual-price">@Model.ProductPrice.Price</span>
+            </div>
+        }
+
+        @if (Model.ReviewOverviewModel.AllowCustomerReviews)
+        {
+            int ratingPercent = 0;
+            if (Model.ReviewOverviewModel.TotalReviews != 0)
+            {
+                ratingPercent = ((Model.ReviewOverviewModel.RatingSum * 100) / Model.ReviewOverviewModel.TotalReviews) / 5;
+            }
+            <div class="product-rating-box" title="@string.Format(T("Reviews.TotalReviews").Text, Model.ReviewOverviewModel.TotalReviews)">
+                <div class="rating">
+                    <div style="width: @(ratingPercent)%">
+                    </div>
+                </div>
+            </div>
+        }
+        <div class="add-info">
+            <div class="buttons">
+                @*<input type="button" value="@T("Products.Details")" class="button-1 product-box-detail-button" onclick="setLocation('@Url.RouteUrl("Product", new { SeName = Model.SeName })')" />*@
+                @if (!Model.ProductPrice.DisableBuyButton)
+                {
+                    <input type="button" value="@(Model.ProductPrice.AvailableForPreOrder ? T("ShoppingCart.PreOrder") : T("ShoppingCart.AddToCart"))" class="button-2 product-box-add-to-cart-button" onclick="AjaxCart.addproducttocart_catalog('@addtocartlink    ');return false;" />
+                }
+            </div>
+            @Html.Widget("productbox_add_info")
+        </div>
+        <div class="description">
+            @Html.Raw(Model.ShortDescription)
+        </div>
+
+    </div>
+</div>
+
+

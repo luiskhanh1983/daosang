@@ -1,0 +1,56 @@
+﻿@model CustomerInfoModel
+@using Nop.Web.Models.Customer;
+@using Nop.Core;
+@{
+    Layout = "~/Views/Shared/_ColumnsTwo.cshtml";
+
+    //title
+    Html.AddTitleParts(T("PageTitle.Account").Text);
+}
+@section left
+{
+    @Html.Partial("MyAccountNavigation", Model.NavigationModel, new ViewDataDictionary())
+}
+
+<div class="page account-page customer-info-page">
+    <div class="page-title">
+        <h1>@T("Account.MyAccount") - @T("Account.Social")</h1>
+    </div>
+    <div class="page-body">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <div class="message-error">
+                @Html.ValidationSummary(true)
+            </div>
+
+            <div class="fieldset">
+                <div class="title">
+                    <strong>@T("Account.Skype")</strong>
+                </div>
+                <div class="form-fields">
+                    <div class="inputs">
+                        @Html.LabelFor(model => model.Skype, new { }, ":")
+                        @Html.EditorFor(model => model.Skype)
+                        @Html.ValidationMessageFor(model => model.Skype)
+                    </div>
+                    <div class="inputs">
+                        @Html.LabelFor(model => model.Facebook, new { }, ":")
+                        @Html.EditorFor(model => model.Facebook)
+                        @Html.ValidationMessageFor(model => model.Facebook)
+                    </div>
+                    <div class="inputs">
+                        @Html.LabelFor(model => model.Twitwer, new { }, ":")
+                        @Html.EditorFor(model => model.Twitwer)
+                        @Html.ValidationMessageFor(model => model.Twitwer)
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="buttons">
+                <input type="submit" value="@T("Common.Save")" name="save-info-button" class="button-1 save-customer-info-button" />
+            </div>
+        }
+    </div>
+</div>

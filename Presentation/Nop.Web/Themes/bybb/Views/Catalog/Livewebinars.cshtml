@@ -1,0 +1,147 @@
+﻿@model CategoryModel
+@using Nop.Core.Domain.Common;
+@using Nop.Core.Domain.Seo;
+
+@using Nop.Core;
+@using Nop.Web.Framework.UI
+@using Nop.Core.Infrastructure;
+@using Nop.Web.Models.Catalog;
+@using Nop.Web.Extensions;
+@{
+    Layout = "~/Views/Shared/_Root.cshtml";
+    Html.AddTitleParts(!String.IsNullOrEmpty(Model.MetaTitle) ? Model.MetaTitle : Model.Name);
+    Html.AddMetaDescriptionParts(Model.MetaDescription);
+    Html.AddMetaKeywordParts(Model.MetaKeywords);
+
+    var canonicalUrlsEnabled = EngineContext.Current.Resolve<SeoSettings>().CanonicalUrlsEnabled;
+    if (canonicalUrlsEnabled)
+    {
+        var categoryUrl = Url.RouteUrl("Category", new { SeName = Model.SeName }, this.Request.Url.Scheme);
+        Html.AddCanonicalUrlParts(categoryUrl);
+    }
+
+    var breadcrumbDelimiter = EngineContext.Current.Resolve<CommonSettings>().BreadcrumbDelimiter;
+}
+@{
+    //current category ID
+    int currentCategoryId = 0;
+    if (Url.RequestContext.RouteData.Values["controller"].ToString().Equals("catalog", StringComparison.InvariantCultureIgnoreCase) &&
+        Url.RequestContext.RouteData.Values["action"].ToString().Equals("Category", StringComparison.InvariantCultureIgnoreCase))
+    {
+        currentCategoryId = Convert.ToInt32(Url.RequestContext.RouteData.Values["categoryId"].ToString());
+    }
+
+
+    //current manufacturer ID
+    int currentManufacturerId = 0;
+
+    //current product ID
+    int currentProductId = 0;
+
+    var webHelper = EngineContext.Current.Resolve<Nop.Core.IWebHelper>();
+}
+<div class="container">
+    <div class="main">
+        @*category breadcrumb*@
+        @if (Model.DisplayCategoryBreadcrumb)
+        {
+
+            <div class="sixteen columns breadcrumb">
+                <ul>
+                    <li>
+                        <a href="@Url.RouteUrl("HomePage")" title="@T("Categories.Breadcrumb.Top")">@T("Categories.Breadcrumb.Top")</a>
+                        <span class="delimiter">@breadcrumbDelimiter</span>
+                    </li>
+                    @foreach (var cat in Model.CategoryBreadcrumb)
+                    {
+                        var isLastCategory = cat.Id == Model.Id;
+                        <li>
+                            @if (isLastCategory)
+                            {
+                                <strong class="current-item">@cat.Name</strong>
+                            }
+                            else
+                            {
+                                <a href="@Url.RouteUrl("Category", new { SeName = cat.SeName })" title="@cat.Name">@cat.Name</a>
+                                <span class="delimiter">@breadcrumbDelimiter</span>
+                            }
+                        </li>
+                    }
+                </ul>
+            </div>
+            @Html.Widget("categorydetails_after_breadcrumb")
+        }
+
+        <div class="col-left sidebar four columns">
+            @* @if (IsSectionDefined("left"))
+                {
+                    @RenderSection("left")
+                }
+                else
+                {*@
+            @Html.Widget("left_side_column_before")
+            <div class="product-filters-wrapper">
+                @*filtering*@
+                @if (Model.PagingFilteringContext.PriceRangeFilter.Enabled)
+                {
+                    @Html.Partial("_FilterPriceBox", Model.PagingFilteringContext.PriceRangeFilter, new ViewDataDictionary())
+                }
+                @*filtering*@
+                @if (Model.PagingFilteringContext.SpecificationFilter.Enabled)
+                {
+                    @Html.Partial("_FilterSpecsBox", Model.PagingFilteringContext.SpecificationFilter, new ViewDataDictionary())
+                }
+            </div>
+            @Html.Action("CategoryNavigation", "Catalog", new { currentCategoryId = currentCategoryId, currentProductId = currentProductId })
+            @Html.Widget("left_side_column_after_category_navigation")
+            @Html.Action("ManufacturerNavigation", "Catalog", new { currentManufacturerId = currentManufacturerId })
+            @Html.Action("VendorNavigation", "Catalog")
+            @Html.Action("PopularProductTags", "Catalog")
+            @Html.Action("PollBlock", "Poll", new { systemKeyword = "LeftColumnPoll" })
+            @Html.Widget("left_side_column_after")
+            @*}*@
+        </div>
+
+        <div class="col-main twelve columns">
+            <div class="page category-page">
+                <div class="page-title">
+                    <h1>@Model.Name</h1>
+                </div>
+                <div class="page-body">
+                    <p><link href="~/Themes/bybb/content/webinars.css" type="text/css" rel="stylesheet" /></p>
+                    <div class="form-container">
+                        <form method="get" action="http://webinarjam.net/webinar/webinar-register-auto.php" id="signup">
+                            <div class="form-header">
+                                <h3>Sign Up</h3>
+                                <p>Thursday, 07 August 2014 <br /> 9:36 pm (GMT-06:00) <br /> Mountain Time (US and Canada)</p>
+                            </div>
+                            <div class="inputs">
+                               
+                                <input readonly="readonly"  name="firstname" class="form-input" value="@Model.Livewebinar.FirstName" placeholder="Enter Your First Name" autofocus="" type="text" />
+                                <input readonly="readonly" name="email" value="@Model.Livewebinar.Email" class="form-input" placeholder="Enter Your Email Address" type="email" />
+                                <select name="countrycode" disabled name="countrycode" class="form-dropdown">
+                                    <option selected="selected" value="@Model.Livewebinar.ContryCode">@Model.Livewebinar.ContryName</option>
+                                </select>
+                                <input name="phonenumber" readonly="readonly"  value="@Model.Livewebinar.PhoneNumber" class="form-input" placeholder="Your Phone Number" type="text" />
+                                <input name="webicode" value="8fa791fb2a" type="hidden" />
+                                <input name="memberid" value="1444" type="hidden" />
+                                <input name="schedule" value="1" type="hidden" />
+                                 <a id="submit" class="button-1" href="#">REGISTER NOW</a>
+                            </div>
+                        </form>
+                    </div>
+                  
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $("#submit").click(function () {
+            $("#signup").submit();
+        });
+    });
+</script>

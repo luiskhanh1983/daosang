@@ -1,0 +1,295 @@
+﻿@model Nop.Web.Models.BeYoung.BeYoungModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title> Engage </title>
+    <!-- BEGIN LivePerson Monitor. -->
+    <script type="text/javascript">
+        window.lpTag = window.lpTag || {}; if (typeof window.lpTag._tagCount === 'undefined') { window.lpTag = { site: '65822997', section: lpTag.section || '', autoStart: lpTag.autoStart === false ? false : true, ovr: lpTag.ovr || {}, _v: '1.5.1', _tagCount: 1, protocol: location.protocol, events: { bind: function (app, ev, fn) { lpTag.defer(function () { lpTag.events.bind(app, ev, fn) }, 0) }, trigger: function (app, ev, json) { lpTag.defer(function () { lpTag.events.trigger(app, ev, json) }, 1) } }, defer: function (fn, fnType) { if (fnType == 0) { this._defB = this._defB || []; this._defB.push(fn) } else if (fnType == 1) { this._defT = this._defT || []; this._defT.push(fn) } else { this._defL = this._defL || []; this._defL.push(fn) } }, load: function (src, chr, id) { var t = this; setTimeout(function () { t._load(src, chr, id) }, 0) }, _load: function (src, chr, id) { var url = src; if (!src) { url = this.protocol + '//' + ((this.ovr && this.ovr.domain) ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site } var s = document.createElement('script'); s.setAttribute('charset', chr ? chr : 'UTF-8'); if (id) { s.setAttribute('id', id) } s.setAttribute('src', url); document.getElementsByTagName('head').item(0).appendChild(s) }, init: function () { this._timing = this._timing || {}; this._timing.start = (new Date()).getTime(); var that = this; if (window.attachEvent) { window.attachEvent('onload', function () { that._domReady('domReady') }) } else { window.addEventListener('DOMContentLoaded', function () { that._domReady('contReady') }, false); window.addEventListener('load', function () { that._domReady('domReady') }, false) } if (typeof (window._lptStop) == 'undefined') { this.load() } }, start: function () { this.autoStart = true }, _domReady: function (n) { if (!this.isDom) { this.isDom = true; this.events.trigger('LPT', 'DOM_READY', { t: n }) } this._timing[n] = (new Date()).getTime() }, vars: lpTag.vars || [], dbs: lpTag.dbs || [], ctn: lpTag.ctn || [], sdes: lpTag.sdes || [], ev: lpTag.ev || [] }; lpTag.init() } else { window.lpTag._tagCount += 1 }
+    </script>
+    <!-- END LivePerson Monitor. -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="@Url.Content("~/Content/Beyoung/style.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/Beyoung/secret_stuff/font-awesome-4.1.0/css/font-awesome.min.css")" rel="stylesheet" />
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <script type="text/javascript">
+        var verifycode = "@ViewBag.messageerror";
+        var formactivity = "@ViewBag.formactivity";
+        $(document).ready(function () {
+
+            $('#submit0').click(function () {
+                $('#screen0').fadeOut(500);
+                $('#screen1').fadeIn(500);
+            });
+
+            if (formactivity == "screen1") {
+                $('#screen0').fadeOut(500);
+                $('#screen1').fadeOut(500);
+                $('#screen2').fadeIn(500);
+            };
+            if (formactivity == "screen2") {
+                $("#screen0").fadeOut(500);
+                $('#screen1').fadeOut(500);
+                $('#screen2').fadeOut(500);
+                $('#screen3').fadeIn(500);
+                $("#VaidCodemessage").fadeIn(200);
+            };
+            $('#submit2').click(function () {
+
+                $("#VaidCodemessage").fadeIn(200);
+                return true;
+            });
+
+            $('#submit3').click(function () {
+                $('#screen3').fadeOut(500);
+                $('#screen4').fadeIn(500);
+            });
+            $('#submit4').click(function () {
+                $('#screen4').fadeOut(500);
+                $('#screen5').fadeIn(500);
+            });
+            $('#submit5').click(function () {
+                $('.classmessagesreen5').fadeIn(500);
+            });
+            if (formactivity == "screen5") {
+                $("#screen0").fadeOut(500);
+                $('#screen1').fadeOut(500);
+                $('#screen2').fadeOut(500);
+                $('#screen3').fadeOut(500);
+                $('#screen4').fadeOut(500);
+                $('#screen5').fadeOut(500);
+                $('#screen6').fadeIn(500);
+            }
+            $('#submit6').click(function () {
+                $('.classmessagesreen6').fadeIn(500);
+            });
+            if (formactivity == "screen6") {
+                $("#screen0").fadeOut(500);
+                $('#screen1').fadeOut(500);
+                $('#screen2').fadeOut(500);
+                $('#screen3').fadeOut(500);
+                $('#screen4').fadeOut(500);
+                $('#screen5').fadeOut(500);
+                $('#screen6').fadeOut(500);
+                $('#screen7').fadeIn(500);
+                $('.classmessagesreen6').fadeIn(500);
+            };
+        });
+    </script>
+    <script src="https://ssl.geoplugin.net/javascript.gp?k=ae5b2622784cda71"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            var city = geoplugin_city();
+            var location = document.getElementById("city-name");
+            location.innerHTML = city;
+        });
+    </script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+</head>
+<body>
+    <video src="@Url.Content("~/Content/video/08-bermuda-090612.mp4")" id="video1" loop autoplay></video>
+    <audio src="@Url.Content("~/Content/Beyoung/secret_stuff/FF_2FX15021.mp3")" id="audio1" autoplay loop></audio>
+    <button class="play-pause" onclick="playPause()"></button>
+    <span class="controls">
+        <i class="fa fa-play-circle-o fa-3x" id="play" style="display:none;"></i>
+        <i class="fa fa-pause fa-2x" id="pause"></i>
+    </span>
+
+    <div class="main_wrapper">
+        <!-- Screen 0 -->
+        <div class="content_box" id="screen0">
+            <div class="box_title"> Is this where YOU and YOUR be young TH Team in <br><span id="city-name"></span> have your team outings? </div>
+            <div class="box_title2"> <span id="highlight">It will be,</span> once you <span id="highlight">ENGAGE</span> the all new <span id="highlight">bybb MARKETING SYSTEM</span> </div>
+            <div id="contact-area">
+                <input type="submit" name="submit" value="ENGAGE NOW" class="submit-button" id="submit0" />
+                <div class="cleaner"></div>
+            </div>
+        </div>
+        <!--end screen 0-->
+        <!-- Screen 1 -->
+        <div class="content_box" id="screen1">
+            <div class="box_title"> Start Your PARTNER PROSPECTOR </div>
+            <div id="contact-area">
+
+                @using (Html.BeginForm("engage", "Beyoung"))
+                {
+                    <label for="Name">NAME</label>
+                    @Html.TextBoxFor(x => x.FirstName, new { placeholder = "First Name" })
+                    <div>
+                        @Html.ValidationMessageFor(x => x.FirstName)
+                    </div>
+
+                    <label></label>
+                    @Html.TextBoxFor(x => x.LastName, new { placeholder = "Last Name" })
+                    <br />
+                    <div>@Html.ValidationMessageFor(x => x.LastName)</div>
+
+                    <label for="id">byEO ID</label>
+                    @Html.TextBoxFor(x => x.SharingPartnerID, new { placeholder = "Sharing Partner ID" })
+                    <br />
+                    <div style="width:100px;margin-left:180px;">@Html.ValidationMessageFor(x => x.SharingPartnerID)</div>
+
+                    <label for="level">LEVEL</label><br />
+                    @Html.DropDownList("Level", Model.AvailableLevels)
+                    <label for="Email">EMAIL</label>
+                    @Html.TextBoxFor(x => x.Email, new { placeholder = "Same as Be Young" })
+                    <br />
+
+                    <div style="width:100px;margin-left:180px;">@Html.ValidationMessageFor(x => x.Email)</div>
+                    <div class="cleaner"></div>
+                    <input type="submit" name="submit" value="ENGAGE NOW" class="submit-button1" id="submit1" />
+                    <div class="cleaner"></div>
+                }
+            </div>
+        </div>
+        <!-- Screen 1 End -->
+        <!-- Screen 2 -->
+        <div class="content_box" id="screen2">
+            <div class="box_title"> Check your email, <br> Enter the Code </div>
+            <div id="contact-area">
+                @using (Html.BeginForm("engaged", "Beyoung"))
+                {
+                    <label for="Name">CODE</label>
+                    @Html.TextBoxFor(x => x.VaidCode, new { placeholder = "Input code here to verify" })
+                    <div id="VaidCodemessage" style="display:none;">
+                        @Html.ValidationMessageFor(x => x.VaidCode)
+                    </div>
+                    <div>@ViewBag.messageerror </div>
+                    <div class="cleaner"></div>
+                    <input type="submit" name="submit1" value="VERIFY CODE" class="submit-button1" id="submit2" />
+                    <div class="cleaner"></div>
+                }
+            </div>
+        </div>
+        <!-- Screen 2 End -->
+        <!-- Screen 3 -->
+        <div class="content_box" id="screen3">
+            <div class="box_title"> It is YOUR lucky day! </div>
+            <div class="box_title2">WE DO ALL THE HEAVY LIFTING FOR YOU! </div>
+            <img src="@Url.Content("~/Themes/bybb/Content/images/logo_white.png")">
+            <div id="contact-area">
+
+                <!-- <form method="post"> -->
+                <p>LIMITED TIME -  50% OFF SETUP FEE,</p>
+                <p>DOUBLE the PROSPECTS</p>
+                <input type="submit" name="submit" value="BE BUILDING AUTOMATICALLY" class="submit-button2" id="submit3" />
+                <div class="cleaner"></div>
+                <!-- </form> -->
+            </div>
+        </div>
+        <!-- Screen 3 End -->
+        <!-- Screen 4 -->
+        <div class="content_box" id="screen4">
+            <img src="@Url.Content("~/Themes/bybb/Content/images/logo_white.png")" class="box_logo">
+            <div class="box_title"> NOW 199.95/monthly to ENGAGE </div>
+            <div class="box_title2"> 200 PARTNER PROSPECTS Guaranteed </div>
+            <div id="contact-area">
+                <!-- <form method="post"> -->
+                <p> Bare minimum estimation: <br> 4 New Sharing Partners for you </p>
+                <input type="submit" name="submit" value="START PROSPECTING" class="submit-button3" id="submit4" />
+                <div class="cleaner"></div>
+                <!-- </form> -->
+            </div>
+        </div>
+        <!-- Screen 4 End -->
+        <!-- Screen 5 -->
+        <div class="content_box" id="screen5">
+            <img src="@Url.Content("~/Themes/bybb/Content/images/logo_white.png")" class="box_logo">
+            <div id="contact-area">
+                @using (Html.BeginForm("form5", "Beyoung"))
+                {
+                 <!-- <form method="post"> -->
+                    <label for="Username">USERNAME</label>
+                    @Html.TextBoxFor(x => x.UserName, new { placeholder = "bybb Account" })
+                    <div class="classmessagesreen5" style="display:none;">
+                        @Html.ValidationMessageFor(x => x.UserName)
+                    </div>
+                    <label for="Username">PASSWORD</label>
+
+                    @Html.TextBoxFor(x => x.Password, new { placeholder = "bybb Password" })
+                    <div class="classmessagesreen5" style="display:none;">
+                        @Html.ValidationMessageFor(x => x.Password)
+                    </div>
+                    <input type="submit" name="submit" value="SUBSCRIBE" class="submit-button4" id="submit5" />
+                    <div class="cleaner"></div>
+                <!-- </form> -->
+                }
+            </div>
+        </div>
+
+        <!-- Screen 5 End -->
+        <!-- Screen 6 -->
+        <div class="content_box" id="screen6">
+            <img src="@Url.Content("~/Themes/bybb/Content/images/logo_white.png")" class="box_logo">
+            <div id="contact-area">
+                @using (Html.BeginForm("form6", "Beyoung"))
+                {
+                <!-- <form method="post"> -->
+                    <label for="Card">CARD #</label>
+                    @Html.TextBoxFor(x => x.CardNumber, new { placeholder = "Card Number" })
+                    <div class="classmessagesreen6" style="display:none;">
+                        @Html.ValidationMessageFor(x => x.CardNumber)
+                    </div>
+                    <label for="ValidDate">Exp Date</label>
+                    @Html.DropDownListFor(x => x.ExpireMonth, Model.ExpireMonths, new { style = "width:50px" })
+                    @Html.DropDownListFor(x => x.ExpireYear, Model.ExpireYears, new { style = "width:70px;" })
+                    <br />
+                    <br />
+                    @*<div class="classmessagesreen6" style="display:none;">
+                            @Html.ValidationMessageFor(x => x.CardEXP)
+                        </div>*@
+                    <label for="CCV" id="cvv">CVV</label>
+                    @Html.TextBoxFor(x => x.CardCVV, new { placeholder = "CVV", style="width:95px;" })
+                    <div class="classmessagesreen6" style="display:none;">
+                        @Html.ValidationMessageFor(x => x.CardCVV)
+                    </div>
+                    <div class="cleaner"></div>
+                    <p> YOU WILL SEE PRESCREENED PROSPECTS IN JUST A FEW DAYS </p>
+                    <input type="submit" name="submit" value="START AUTOMATOR" class="submit-button5" id="submit6" />
+                    <div class="cleaner"></div>
+                }
+                <!-- </form> -->
+            </div>
+
+        </div>
+        <!-- Screen 6 End -->
+        <!-- Screen 7 -->
+        <div class="content_box opened" id="screen7">
+            <img src="@Url.Content("~/Themes/bybb/Content/images/logo_white.png")" class="box_logo">
+            <div id="contact-area">
+                <p> THANK YOU! WE WILL EMAIL YOU ONCE IT STARTS </p>
+                <p class="small"><!-- You are being redirected to bybbMARKETING.COM! --> YOU MAY CLOSE THIS WINDOW NOW </p>
+                @*<div id="count"></div>*@
+            </div>
+        </div>
+        <!-- Screen 7 End -->
+    </div>
+    <script type="text/javascript">
+        var myVideo = document.getElementById("video1");
+        var myAudio = document.getElementById("audio1");
+
+        function playPause() {
+            if (myVideo.paused) {
+                myVideo.play(),
+                myAudio.play();
+                $('.fa-play-circle-o').fadeOut(500);
+                $('.fa-pause').fadeIn(500);
+            }
+            else {
+                myVideo.pause(),
+                myAudio.pause();
+                $('.fa-pause').fadeOut(500);
+                $('.fa-play-circle-o').fadeIn(500);
+            }
+
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿@model NewsletterBoxModel
+@using Nop.Web.Models.Newsletter;
+<div class="newsletter_footer">        
+        <div id="newsletter-subscribe-block">
+            <div class="newsletter_footer_input">
+            @Html.TextBoxFor(x => x.NewsletterEmail, new { @class="input-text required-entry validate-email", id = "newsletter-email" , placeholder = "NEWSLETTER SIGNUP"})
+            @Html.ValidationMessageFor(x => x.NewsletterEmail)
+            </div>
+            <div class="newsletter_footer_submit">
+                <input type="button" value="@T("Newsletter.Button")" id="newsletter-subscribe-button" />
+                <span id="subscribe-loading-progress" style="display: none;" class="please-wait">@T("Common.Wait...")</span>
+            </div>
+            </div>
+        <div id="newsletter-result-block" class="newsletter-result-block">
+        </div>
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#newsletter-subscribe-button').click(function () {
+                
+                var email = $("#newsletter-email").val();
+                var subscribeProgress = $("#subscribe-loading-progress");
+                subscribeProgress.show();
+                $.ajax({
+                    cache: false,
+                    type: "POST",
+                    url: "@(Url.RouteUrl("SubscribeNewsletter"))",
+                    data: { "email": email },
+                    success: function (data) {
+                        subscribeProgress.hide();
+                        $("#newsletter-result-block").html(data.Result);
+                         if (data.Success) {
+                            $('#newsletter-subscribe-block').hide();
+                            $('#newsletter-result-block').show();
+                         }
+                         else {
+                            $('#newsletter-result-block').fadeIn("slow").delay(2000).fadeOut("slow");
+                         }
+                    },
+                    error:function (xhr, ajaxOptions, thrownError){
+                        alert('Failed to subscribe.');
+                        subscribeProgress.hide();
+                    }  
+                });                
+                return false;
+            });
+        });
+    </script>
+</div>

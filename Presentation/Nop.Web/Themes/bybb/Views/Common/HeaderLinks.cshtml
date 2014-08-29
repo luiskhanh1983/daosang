@@ -1,0 +1,94 @@
+﻿@model HeaderLinksModel
+@using Nop.Web.Models.Common;
+@{
+    var curent1 = this.WorkContext.CurrentCustomer.Username;
+    var curent2 = this.WorkContext.CurrentCustomer.Email;
+    var usernamesEnabled = Nop.Core.Infrastructure.EngineContext.Current.Resolve<Nop.Core.Domain.Customers.CustomerSettings>().UsernamesEnabled;
+}
+<div class="header-links">
+    <ul>
+        @Html.Widget("header_links_before")
+        @if (Model.IsAuthenticated && usernamesEnabled == true)
+        {
+            <li class="header-account"><a href="@Url.RouteUrl("CustomerInfo")" class="account">@T(curent1)</a></li>
+        }
+        else
+        {
+            <li class="header-account"><a href="@Url.RouteUrl("CustomerInfo")" class="account">@T(curent2)</a></li>
+        }
+        @if (!Model.IsAuthenticated)
+        {
+            <li class="header-account"><a href="@Url.RouteUrl("Register")" class="account">Register</a></li>
+
+        }
+
+        <li class="header-wishlist"><a href="@Url.RouteUrl("Wishlist")" class="ico-wishlist">@T("MyWishlist")</a></li>
+        <li class="header-checkout"><a href="/onepagecheckout" class="ico-cart">@T("Checkout")</a></li>
+        @if (Model.IsAuthenticated)
+        {
+            <li class="header-logout"><a href="@Url.RouteUrl("Logout")" class="ico-logout">@T("Account.Logout")</a></li>
+        }
+        else
+        {
+            <li class="header-login"><a href="@Url.RouteUrl("Login")" class="ico-login">@T("Account.Login")</a></li>
+        }
+        <li class="topcartlink">
+            @if (Model.CountUnreadMessage > 0)
+            {
+                <a href="@Url.RouteUrl("privatemessages")" class="ico-cart">
+                    <span class="msg"><img src="https://bybbmarketing.com/Themes/bybb/content/images/msg-white.png"></span>
+
+                    <span class="cart-qty">@T("ShoppingCart.HeaderQuantity", Model.CountUnreadMessage)</span>
+                </a>
+
+            }
+
+            <a href="@Url.RouteUrl("ShoppingCart")" class="ico-cart">
+                <span class="cart-label"><img src="https://bybbmarketing.com/Themes/bybb/content/images/cart-icon.png" width="21"></span>
+                <span class="cart-qty" @(Model.ShoppingCartItems > 0 ? Html.Raw("style='width:90px;'") : null)>@T("ShoppingCart.HeaderQuantity", Model.ShoppingCartItems) <span class="cart-sub-total"> @Model.ShoppingCartSubTotal</span></span>
+            </a>
+            <button id="topcartlink"> > </button>
+        </li>
+        @Html.Widget("header_links_after")
+    </ul>
+    @if (Model.ShoppingCartEnabled)
+    {
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $("#topcartlink").toggle(
+                  function () {
+                      $("#flyout-cart").addClass('active');
+                  }, function () {
+                      $("#flyout-cart").removeClass('active');
+                  }
+                );
+
+                //$('.header').on('click', '#topcartlink', function () {
+                //    $('#flyout-cart').addClass('active');
+                //});
+                //$('.header').on('mouseleave', '#flyout-cart', function () {
+                //    $('#flyout-cart').removeClass('active');
+                //});
+                //$('.header').on('mouseenter', '#flyout-cart', function () {
+                //    $('#flyout-cart').addClass('active');
+                //});
+                //$('.header').on('mouseleave', '#flyout-cart', function () {
+                //    $('#flyout-cart').removeClass('active');
+                //});
+
+                jQuery('#nav_block_head').click(function () {
+                    jQuery('.header-links').toggleClass('visible_on');
+
+                });
+            });
+        </script>
+    }
+</div>
+
+
+
+
+
+
+
+

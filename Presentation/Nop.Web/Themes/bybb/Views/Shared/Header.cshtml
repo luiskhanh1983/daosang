@@ -1,0 +1,59 @@
+﻿<div class="header">
+    <div class="container padding-1">
+    @Html.Widget("header")
+    <div class="header-logo five columns">
+        <a href="@Url.RouteUrl("HomePage")" class="logo">&nbsp; </a>
+    </div>
+<div class="eleven columns">
+<div class="row">
+    <div class="header-selectors-wrapper">
+<div class="phone">
+<!-- BEGIN LivePerson Monitor. -->
+<script type="text/javascript">
+window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'65822997',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},start:function(){this.autoStart=true},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init()}else{window.lpTag._tagCount+=1}
+</script>
+<!-- END LivePerson Monitor. -->
+ </div>
+        <div class="language-selector">
+            @Html.Action("LanguageSelector", "ThemeHelper")
+        </div>
+        <div class="tax-display-type-selector">
+            @Html.Action("TaxTypeSelector", "Common")
+        </div>
+        <div class="currency-selector">
+            @Html.Action("CurrencySelector", "Common")
+        </div>
+        <div class="header-shopping-cart">
+            @Html.Action("HeaderLinks", "Common")        
+        </div>
+        @Html.Widget("header_selectors")
+    </div>
+</div>
+
+<div class="row">
+    <div class="header-links-wrapper">
+        <div id="nav_block_head">
+            <div class="nav_block_head_field"> Service Tools </div>
+            <span class="nav_block_head_button"> </span>
+            <div class="clear"></div>
+       </div>
+        @Html.Action("HeaderLinks", "Common")        
+    </div>    
+    @Html.Action("FlyoutShoppingCart", "ShoppingCart")
+    <div class="search-box">
+        @Html.Action("SearchBox", "Catalog")
+    </div>
+</div>
+</div>
+</div>
+</div>
+   <script type="text/javascript">
+       $(document).ready(function () {   
+           jQuery('#nav_block_head').click(function () {
+               jQuery('.header-links').toggleClass('visible_on');
+
+           });
+       });
+        </script>
+
+
