@@ -1,10 +1,7 @@
 ﻿@model ForumPostModel
 @using Nop.Web.Models.Boards;
 @Html.Raw(String.Format("<a name=\"{0}\"></a>", Model.Id))
-@section left
-{
-    @Html.Partial("MyAccountNavigation", Model.NavigationModel, new ViewDataDictionary())
-}
+
 <div class="forum-post" id="@Html.Encode(String.Format("post{0}", Model.Id))">
     <div class="post-info">
         <div class="manage">

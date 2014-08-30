@@ -12,7 +12,7 @@ namespace Nop.Web.Models.Boards
 
         public bool IsCurrentCustomerAllowedToEditPost { get; set; }
         public bool IsCurrentCustomerAllowedToDeletePost { get; set; }
-        public CustomerNavigationModel NavigationModel { get; set; }
+    
         public int CustomerId { get; set; }
         public bool AllowViewingProfiles { get; set; }
         public string CustomerAvatarUrl { get; set; }
@@ -37,10 +37,7 @@ namespace Nop.Web.Models.Boards
         public string FormattedSignature { get; set; }
 
         public int CurrentTopicPage { get; set; }
-        public ForumPostModel()
-        {
-            NavigationModel = new CustomerNavigationModel();
-        }
+      
 
     }
 }

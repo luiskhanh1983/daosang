@@ -3330,7 +3330,6 @@
     <Content Include="Themes\bybb\Content\Webinars\unique-link.png" />
     <Content Include="Themes\bybb\Content\Webinars\webinar-icon.png" />
     <Content Include="Themes\bybb\preview.jpg" />
-    <Content Include="Themes\bybb\Views\Home\.gitignore" />
     <Content Include="Themes\DefaultClean\Content\images\free-shipping.png" />
     <Content Include="Themes\DefaultClean\Content\images\top-menu-background.png" />
     <Content Include="Themes\DefaultClean\Content\images\top-menu-divider.png" />
