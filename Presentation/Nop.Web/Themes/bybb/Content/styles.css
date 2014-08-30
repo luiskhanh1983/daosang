@@ -990,7 +990,7 @@ a.eu-cookie-privacyinfo-tag{color:#B80709 !important;text-decoration:underline;}
 .block .listbox ul{margin:0;padding:0 0 0 2px;color:#5C5B5B;background-color:inherit;}
 .block a,
 .product-spec-filter .available-items .item a{color:#000000;font-size:1.1em;font-weight:400;text-decoration:none;}
-.block a:hover,
+
 .product-spec-filter .available-items .item a:hover,
 .price-range-filter .filter-content li a:hover{
     color:#000;
@@ -1042,7 +1042,7 @@ a.eu-cookie-privacyinfo-tag{color:#B80709 !important;text-decoration:underline;}
 .block-account-navigation a.active{font-weight:700;text-decoration:none;}
 .block-account-navigation a{white-space:nowrap;}
 .block-account-navigation a.inactive{font-weight:400;text-decoration:none;}
-.block-account-navigation a.inactive:hover{text-decoration:underline !important;color:#B80709 !important;}
+.block-account-navigation a.inactive:hover{text-decoration:underline !important;background:white !important;}
 .block-newsletter .buttons{margin-top:5px;}
 .block-popular-tags li,.block-popular-blogtags li{display:inline!important;}
 .block-blog-archive li,.block-popular-tags li,.block-popular-blogtags li{background:none !important;padding-left:5px !important;padding-right:5px !important;}

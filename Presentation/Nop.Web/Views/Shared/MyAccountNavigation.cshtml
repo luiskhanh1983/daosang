@@ -18,7 +18,7 @@
     {
         Model.SelectedTab = CustomerNavigationEnum.Social;
     }
-    if (actionname.ToLower() == "Profile")
+    if (actionname== "Profile")
     {
         Model.SelectedTab = CustomerNavigationEnum.Profile;
     }
@@ -32,137 +32,127 @@
     <div class="title">
         <strong>@T("Account.Navigation")</strong>
     </div>
-    <div class="listbox">
-        <ul class="list">
-            @Html.Widget("account_navigation_before")
-            @if (!Model.HideInfo)
-            {
-                <li>
-                    <a href="@Url.RouteUrl("CustomerInfo")" class="@if (Model.SelectedTab == CustomerNavigationEnum.Info)
+
+    @if (!Model.HideInfo)
+    {
+        <li>
+            <a href="@Url.RouteUrl("CustomerInfo")" class="@if (Model.SelectedTab == CustomerNavigationEnum.Info)
                                                                    {<text>active</text>}
                                                                    else
                                                                    {<text>inactive</text>}">@T("Account.CustomerInfo")</a>
                                                             </li>
-            }
-            @if (!Model.HideAddresses)
-            {
-                <li>
-                    <a href="@Url.RouteUrl("CustomerAddresses")" class="@if (Model.SelectedTab == CustomerNavigationEnum.Addresses)
+    }
+    @if (!Model.HideAddresses)
+    {
+        <li>
+            <a href="@Url.RouteUrl("CustomerAddresses")" class="@if (Model.SelectedTab == CustomerNavigationEnum.Addresses)
                                                                         {<text>active</text>}
                                                                         else
                                                                         {<text>inactive</text>}">@T("Account.CustomerAddresses")</a>
                                                                     </li>
-            }
-            @if (!Model.HideOrders)
-            {
-                <li>
-                    <a href="@Url.RouteUrl("CustomerOrders")" class="@if (Model.SelectedTab == CustomerNavigationEnum.Orders)
+    }
+    @if (!Model.HideOrders)
+    {
+        <li>
+            <a href="@Url.RouteUrl("CustomerOrders")" class="@if (Model.SelectedTab == CustomerNavigationEnum.Orders)
                                                                      {<text>active</text>}
                                                                      else
                                                                      {<text>inactive</text>}">@T("Account.CustomerOrders")</a>
                                                                 </li>
-            }
-            @if (!Model.HideReturnRequests)
-            {
-                <li>
-                    <a href="@Url.RouteUrl("CustomerReturnRequests")" class="@if (Model.SelectedTab == CustomerNavigationEnum.ReturnRequests)
+    }
+    @if (!Model.HideReturnRequests)
+    {
+        <li>
+            <a href="@Url.RouteUrl("CustomerReturnRequests")" class="@if (Model.SelectedTab == CustomerNavigationEnum.ReturnRequests)
                                                                              {<text>active</text>}
                                                                              else
                                                                              {<text>inactive</text>}">@T("Account.CustomerReturnRequests")</a>
                                                                         </li>
-            }
-            @if (!Model.HideDownloadableProducts)
-            {
-                <li>
-                    <a href="@Url.RouteUrl("CustomerDownloadableProducts")" class="@if (Model.SelectedTab == CustomerNavigationEnum.DownloadableProducts)
+    }
+    @if (!Model.HideDownloadableProducts)
+    {
+        <li>
+            <a href="@Url.RouteUrl("CustomerDownloadableProducts")" class="@if (Model.SelectedTab == CustomerNavigationEnum.DownloadableProducts)
                                                                                    {<text>active</text>}
                                                                                    else
                                                                                    {<text>inactive</text>}">@T("Account.DownloadableProducts")</a>
                                                                             </li>
-            }
-            @*@if (!Model.HideBackInStockSubscriptions)
-                {
-                    <li>
-                        <a href="@Url.RouteUrl("CustomerBackInStockSubscriptions")" class="@if (Model.SelectedTab == CustomerNavigationEnum.BackInStockSubscriptions)
-                                                                                       {<text>active</text>}
-                                                                                       else
-                                                                                       {<text>inactive</text>}">@T("Account.BackInStockSubscriptions")</a>
-                                                                                </li>
-                }*@
-            @if (!Model.HideRewardPoints)
-            {
-                <li>
-                    <a href="@Url.RouteUrl("CustomerRewardPoints")" class="@if (Model.SelectedTab == CustomerNavigationEnum.RewardPoints)
+    }
+    @*@if (!Model.HideBackInStockSubscriptions)
+        {
+            <li>
+                <a href="@Url.RouteUrl("CustomerBackInStockSubscriptions")" class="@if (Model.SelectedTab == CustomerNavigationEnum.BackInStockSubscriptions)
+                                                                               {<text>active</text>}
+                                                                               else
+                                                                               {<text>inactive</text>}">@T("Account.BackInStockSubscriptions")</a>
+                                                                        </li>
+        }*@
+    @if (!Model.HideRewardPoints)
+    {
+        <li>
+            <a href="@Url.RouteUrl("CustomerRewardPoints")" class="@if (Model.SelectedTab == CustomerNavigationEnum.RewardPoints)
                                                                            {<text>active</text>}
                                                                            else
                                                                            {<text>inactive</text>}">@T("Account.RewardPoints")</a>
                                                                     </li>
-            }
-            @if (!Model.HideChangePassword)
-            {
-                <li>
-                    <a href="@Url.RouteUrl("CustomerChangePassword")" class="@if (Model.SelectedTab == CustomerNavigationEnum.ChangePassword)
+    }
+    @if (!Model.HideChangePassword)
+    {
+        <li>
+            <a href="@Url.RouteUrl("CustomerChangePassword")" class="@if (Model.SelectedTab == CustomerNavigationEnum.ChangePassword)
                                                                              {<text>active</text>}
                                                                              else
                                                                              {<text>inactive</text>}">@T("Account.ChangePassword")</a>
                                                                         </li>
-            }
+    }
 
-            @if (!Model.HideForumSubscriptions)
-            {
-                <li>
-                    <a href="@Url.RouteUrl("CustomerForumSubscriptions")" class="@if (Model.SelectedTab == CustomerNavigationEnum.ForumSubscriptions)
+    @if (!Model.HideForumSubscriptions)
+    {
+        <li>
+            <a href="@Url.RouteUrl("CustomerForumSubscriptions")" class="@if (Model.SelectedTab == CustomerNavigationEnum.ForumSubscriptions)
                                                                                  {<text>active</text>}
                                                                                  else
                                                                                  {<text>inactive</text>}">@T("Account.ForumSubscriptions")</a>
                                                                             </li>
 
-            }
+    }
 
-            @Html.Widget("account_navigation_after")
-        </ul>
-    </div>
+
 </div>
 <div class="block block-account-navigation">
     <div class="title">
         <strong>@T("Account.BEYOUNTTOTALHEATH")</strong>
     </div>
-    <div class="listbox">
-        <ul class="list">
-            @Html.Widget("account_navigation_before")
-            <li>
-                <a href="@Url.RouteUrl("BeYoungTOTALHEALTH")"
-                   class="@if (Model.SelectedTab == CustomerNavigationEnum.BeYoungTOTALHEALTH)
+
+    <li>
+        <a href="@Url.RouteUrl("BeYoungTOTALHEALTH")"
+           class="@if (Model.SelectedTab == CustomerNavigationEnum.BeYoungTOTALHEALTH)
                                                                            {<text>active</text>}
                                                                            else
                                                                            {<text>inactive</text>}">
 
-                    @T("BeYoungTotalHeath")
-                </a>
-            </li>
-            @Html.Widget("account_navigation_after")
-        </ul>
-    </div>
+            @T("BeYoungTotalHeath")
+        </a>
+    </li>
+
 </div>
 <div class="block block-account-navigation">
     <div class="title">
         <strong>@T("Account.Marketing")</strong>
     </div>
-    <div class="listbox">
-        <ul class="list">
-            @Html.Widget("account_navigation_before")
-            <li>
-                <a href="@Url.RouteUrl("CustomerProfile",new {id=Model.CustomerId})"
-                   class="@if (Model.SelectedTab== CustomerNavigationEnum.Profile )
+
+    <li>
+        <a href="@Url.RouteUrl("CustomerProfile",new {id=Model.CustomerId})"
+           class="@if (Model.SelectedTab== CustomerNavigationEnum.Profile )
                                                                            {<text>active</text>}
                                                                            else
                                                                            {<text>inactive</text>}">
 
-                    @T("CustomerProfile")
-                </a>
-            </li>
-            <li>
-                <a href="@Url.RouteUrl("Social")" class="@if (Model.SelectedTab == CustomerNavigationEnum.Social)
+            @T("CustomerProfile")
+        </a>
+    </li>
+    <li>
+        <a href="@Url.RouteUrl("Social")" class="@if (Model.SelectedTab == CustomerNavigationEnum.Social)
                                                                      {<text>active</text>}
                                                                      else
                                                                      {<text>inactive</text>}">@T("Account.Social")</a>
@@ -176,17 +166,13 @@
                                                                      {<text>inactive</text>}">@T("Account.Avatar")</a>
                                                                 </li>
                                                                 }
-                                                                @Html.Widget("account_navigation_after")
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div class="block block-account-navigation">
-                                                        <div class="title">
-                                                            <strong>@T("Account.ENGAGEMENT")</strong>
-                                                        </div>
-                                                        <div class="listbox">
-                                                            <ul class="list">
-                                                                @Html.Widget("account_navigation_before")
+
+                                                            </div>
+                                                            <div class="block block-account-navigation">
+                                                                <div class="title">
+                                                                    <strong>@T("Account.ENGAGEMENT")</strong>
+                                                                </div>
+
                                                                 <li>
                                                                     <a href="@Url.RouteUrl("privatemessages")"
                                                                        class="@if (Model.SelectedTab== CustomerNavigationEnum.Privatemessages )
@@ -197,9 +183,7 @@
                                                                         @T("privatemessages")
                                                                     </a>
                                                                 </li>
-                                                                @Html.Widget("account_navigation_after")
-                                                            </ul>
-                                                        </div>
-                                                    </div>
+
+                                                            </div>
 
 

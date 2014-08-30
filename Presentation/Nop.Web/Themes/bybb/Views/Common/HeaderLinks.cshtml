@@ -10,11 +10,11 @@
         @Html.Widget("header_links_before")
         @if (Model.IsAuthenticated && usernamesEnabled == true)
         {
-            <li class="header-account"><a href="@Url.RouteUrl("CustomerInfo")" class="account">@T(curent1)</a></li>
+            <li class="header-account"><a href="@Url.RouteUrl("CustomerInfo")" class="account">@curent1</a></li>
         }
         else
         {
-            <li class="header-account"><a href="@Url.RouteUrl("CustomerInfo")" class="account">@T(curent2)</a></li>
+            <li class="header-account"><a href="@Url.RouteUrl("CustomerInfo")" class="account">@curent2</a></li>
         }
         @if (!Model.IsAuthenticated)
         {
