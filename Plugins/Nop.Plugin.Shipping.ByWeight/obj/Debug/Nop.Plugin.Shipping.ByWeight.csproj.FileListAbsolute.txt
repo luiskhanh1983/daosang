@@ -31,3 +31,10 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugi
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Shipping.ByWeight\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb

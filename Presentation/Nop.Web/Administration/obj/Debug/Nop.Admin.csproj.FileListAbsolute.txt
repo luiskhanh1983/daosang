@@ -32,3 +32,9 @@ C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web\bin\Nop.Admin.
 C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
 C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
 C:\Users\ADMIN\Desktop\AFFILLMENT\AFFILLMENT\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb
+D:\Source\github\daosang\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+D:\Source\github\daosang\Presentation\Nop.Web\bin\Nop.Admin.dll
+D:\Source\github\daosang\Presentation\Nop.Web\bin\Nop.Admin.pdb
+D:\Source\github\daosang\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb

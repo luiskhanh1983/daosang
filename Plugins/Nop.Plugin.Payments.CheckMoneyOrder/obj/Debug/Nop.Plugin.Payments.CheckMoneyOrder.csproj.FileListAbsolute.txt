@@ -31,3 +31,10 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\No
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb

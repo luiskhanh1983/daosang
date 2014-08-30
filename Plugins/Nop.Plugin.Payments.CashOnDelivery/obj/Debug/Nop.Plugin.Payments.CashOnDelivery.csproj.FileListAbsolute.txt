@@ -36,3 +36,11 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo2.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb

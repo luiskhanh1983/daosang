@@ -36,3 +36,11 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.P
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb

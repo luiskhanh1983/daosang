@@ -33,3 +33,10 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb

@@ -33,3 +33,10 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb

@@ -32,3 +32,10 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\SMS.Verizon\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\SMS.Verizon\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb

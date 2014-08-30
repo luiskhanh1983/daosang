@@ -21,3 +21,11 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Advanced.PostData\Nop.Plugi
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Advanced.PostData\obj\Debug\Nop.Plugin.Advanced.PostData.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Advanced.PostData\obj\Debug\Nop.Plugin.Advanced.PostData.pdb
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Advanced.PostData\obj\Debug\Nop.Plugin.Advanced.PostData.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Advanced.PostData\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Advanced.PostData\Remote\NopService.svc
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Advanced.PostData\Remote\web.config
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Advanced.PostData\Nop.Plugin.Advanced.PostData.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Advanced.PostData\Nop.Plugin.Advanced.PostData.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.Advanced.PostData\obj\Debug\Nop.Plugin.Advanced.PostData.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.Advanced.PostData\obj\Debug\Nop.Plugin.Advanced.PostData.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.Advanced.PostData\obj\Debug\Nop.Plugin.Advanced.PostData.pdb

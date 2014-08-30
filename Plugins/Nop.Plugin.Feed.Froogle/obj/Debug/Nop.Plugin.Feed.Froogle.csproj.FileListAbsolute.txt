@@ -36,3 +36,11 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Fee
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb

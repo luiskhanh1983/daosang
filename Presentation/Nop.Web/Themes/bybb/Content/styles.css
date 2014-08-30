@@ -2284,7 +2284,7 @@ block-progress .block-content {
     color:#000;
 }
 .contact-page .email{width:320px;padding:1px; height:26px;}
-.contact-page .enquiry{width:100%;height:150px;}
+.contact-page .enquiry{width:100%;height:150px;border: 1px solid #fd7d37;}
 .contact-page .buttons .contact-us-button{float:right;}
 
 
@@ -3902,7 +3902,7 @@ pre{white-space:pre-wrap;white-space:normal;word-wrap:break-word;}
 /* Countdowns */
 .countdown_amount {display:block;font-size:44px;  padding-top:35px; padding-bottom: 15px; line-height:0; font-family: 'Oswald', sans-serif; font-weight:300; color:#fff;}
 .countdown_section {display:inline-block; width:100px; height:100px; margin:10px; border-radius: 50%; border:3px solid #fff; color: #fff;}
-.phase { position: absolute; top: 73px; left: -5px; z-index: 100; background-color: rgba(0,0,0,0); color: #fd7f37; text-align: center; font-family: 'Oswald'; border-radius: 50%; }
+.phase { position: absolute; top: 70px; left: -5px; z-index: 100; background-color: rgba(0,0,0,0); color: #fd7f37; text-align: center; font-family: 'Oswald'; border-radius: 50%; }
 .phase div { padding:13px 5px; text-align: center; border: 3px solid #fd7f37; border-radius: 50%;}
 #countdown { text-align: center; border-radius: 50%; font-family: 'Oswald'; border: 3px solid #fd7f37; padding: 5px 8px; position: absolute; top: -2px; }
 .countdown_stats { text-align: center; border-radius: 50%; font-family: 'Oswald'; border: 3px solid #fd7f37; padding: 6px; margin-top:3px; width: 45px; }
@@ -3916,14 +3916,14 @@ pre{white-space:pre-wrap;white-space:normal;word-wrap:break-word;}
 /* Custom Media Queries - Breakpoints for Responsiveness */
 @media screen and (min-width:320px) {
     .packages_box iframe {
-        height:2750px;
+        height:2500px;
     }
 .phase { position: absolute; top: 73px; left: 0px; }
 }
 
 @media screen and (min-width:480px) {
     .packages_box iframe {
-        height:2750px;
+        height:2500px;
     }
     .product-grid .product-item, .es-carousel .product-item { width: 205px; }   
     .phase { position: absolute; top: 73px; left: -5px; }
@@ -3931,7 +3931,7 @@ pre{white-space:pre-wrap;white-space:normal;word-wrap:break-word;}
 
 @media screen and (min-width:1200px) {
     .packages_box iframe {
-        height:850px;
+        height:890px;
     }
 }
 
@@ -4017,7 +4017,6 @@ pre{white-space:pre-wrap;white-space:normal;word-wrap:break-word;}
     background: url(/Themes/bybb/Content/images/wave.png) -20px 0;
     height: 300px;
     width: auto;
-    overflow-x: scroll;
     overflow-y: hidden;
     white-space: nowrap;
 }
@@ -4029,9 +4028,9 @@ pre{white-space:pre-wrap;white-space:normal;word-wrap:break-word;}
 }
 
 .item-video {
-    display: inline-block;
+    display: inline-table;
     width: 210px;
-    margin: 50px 16px;
+    margin: 50px 50px;
     text-align: center;
 }
 
@@ -4039,7 +4038,7 @@ pre{white-space:pre-wrap;white-space:normal;word-wrap:break-word;}
     margin-left: 0px;
 }
 
-.item-description { display: none; text-align: left; }
+.item-description1, .item-description2, .item-description3, .item-description4 { display: none; text-align: left; white-space: pre-line;}
 .item-video span { color: #fff; text-align: center; }
 .item-video img { width: 110px; }
 .cleaner { clear: both; }

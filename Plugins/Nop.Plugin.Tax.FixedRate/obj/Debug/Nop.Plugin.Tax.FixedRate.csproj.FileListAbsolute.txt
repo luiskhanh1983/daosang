@@ -33,3 +33,10 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Ta
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.csprojResolveAssemblyReference.cache
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.pdb
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Tax.FixedRate\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Tax.FixedRate\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.pdb

@@ -81,10 +81,10 @@
             <div class="videos-block">
                 <div class="videos-wrapper">
                     <ul>
-                        <a class="video" href="https://www.youtube.com/v/4-U-DH-aBZs?fs=1&amp;autoplay=1"><li class="item-video" id="first-item"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption">REGISTRATION</span><span class="item-description">Here a short video tidbit on the registration process.</span></li></a>
-                        <a class="video" href="https://www.youtube.com/v/ldo4GrDUXWQ?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption">ALPHA GROUP</span><span class="item-description">This video details ordering your membership.</span></li></a>
-                        <a class="video" href="https://www.youtube.com/v/iK4ImIRgiuQ?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption">BUILD AUTOMATOR </span><span class="item-description">Curious how to get your BA 100 going?</span></li></a>
-                        <a class="video" href="https://www.youtube.com/v/wXERWjvLwW8?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption">INTRODUCTION</span><span class="item-description">Hi, Sharing Partner, this video can give you a good idea of the system.</span></li></a>
+                        <a class="video1" href="https://www.youtube.com/v/4-U-DH-aBZs?fs=1&amp;autoplay=1"><li class="item-video" id="first-item"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption1">REGISTRATION</span><span class="item-description1">A short video tidbit on the registration process.</span></li></a>
+                        <a class="video2" href="https://www.youtube.com/v/ldo4GrDUXWQ?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption2">ALPHA GROUP</span><span class="item-description2">Details about ordering your membership.</span></li></a>
+                        <a class="video3" href="https://www.youtube.com/v/iK4ImIRgiuQ?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption3">BUILD AUTOMATOR </span><span class="item-description3">Curious how to get your BA 100 going?</span></li></a>
+                        <a class="video4" href="https://www.youtube.com/v/wXERWjvLwW8?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption4">INTRODUCTION</span><span class="item-description4">This video can give you a good idea of the system.</span></li></a>
                         @*<a class="video" href="https://www.youtube.com/v/pFinxl4-HDY&list=UUDwklNHXCsyyxvUapeZRplA?fs=1&amp;autoplay=1"><li class="item-video"><img src="/Themes/bybb/Content/images/play.png"><br><span class="item-caption">OVERVIEW</span><span class="item-description">Interested in what the PROSPECTS may see?</span></li></a>*@
                     </ul>
                 </div>
@@ -121,7 +121,7 @@
     });
     jQuery(document).ready(function () {
 
-        $(".video").click(function () {
+        $(".video1 ").click(function () {
             $.fancybox({
                 'padding': 0,
                 'autoScale': false,
@@ -136,7 +136,67 @@
                     'wmode': 'transparent',
                     'allowfullscreen': 'true'
                 }
+               
+            });
 
+            return false;
+        });
+		  $(".video2").click(function () {
+            $.fancybox({
+                'padding': 0,
+                'autoScale': false,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'title': this.title,
+                'width': 640,
+                'height': 385,
+                'href': this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+                'type': 'swf',
+                'swf': {
+                    'wmode': 'transparent',
+                    'allowfullscreen': 'true'
+                }
+               
+            });
+
+            return false;
+        });
+		  $(".video3").click(function () {
+            $.fancybox({
+                'padding': 0,
+                'autoScale': false,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'title': this.title,
+                'width': 640,
+                'height': 385,
+                'href': this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+                'type': 'swf',
+                'swf': {
+                    'wmode': 'transparent',
+                    'allowfullscreen': 'true'
+                }
+               
+            });
+
+            return false;
+        });
+		  $(".video4").click(function () {
+            $.fancybox({
+                'padding': 0,
+                'autoScale': false,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'title': this.title,
+                'width': 640,
+                'height': 385,
+                'href': this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+                'type': 'swf',
+                'swf': {
+                    'wmode': 'transparent',
+                    'allowfullscreen': 'true'
+                }
+               
             });
 
             return false;
@@ -144,16 +204,37 @@
     });
 </script>
 <script type="text/javascript">
-    $(document).ready(function () {
-        $('.videos-wrapper a.video .item-video').mouseover(function () {
-            $(this).next('.item-caption').fadeOut(300);
-          //  $('.item-caption').fadeOut(300);
-           // $('.item-description').fadeIn(300);
+    $('a.video1').mouseenter(function () {
+            $('.item-caption1').fadeOut(250);
+            $('.item-description1').delay(250).fadeIn(250);
         });
-        $('.videos-wrapper a.video .item-video').mouseleave(function () {
+    $('a.video1').mouseleave(function () {
+            $('.item-description1').delay(250).fadeOut(250);
+            $('.item-caption1').delay(500).fadeIn(250);
+        });
+    $('a.video2').mouseenter(function () {
+            $('.item-caption2').fadeOut(250);
+            $('.item-description2').delay(250).fadeIn(250);
+        });
+    $('a.video2').mouseleave(function () {
+            $('.item-description2').delay(250).fadeOut(250);
+            $('.item-caption2').delay(500).fadeIn(250);
+        });
+    $('a.video3').mouseenter(function () {
+            $('.item-caption3').fadeOut(250);
+            $('.item-description3').delay(250).fadeIn(250);
+        });
+    $('a.video3').mouseleave(function () {
+            $('.item-description3').delay(250).fadeOut(250);
+            $('.item-caption3').delay(500).fadeIn(250);
+        });
+    $('a.video4').mouseenter(function () {
+            $('.item-caption4').fadeOut(250);
+            $('.item-description4').delay(250).fadeIn(250);
+        });
+    $('a.video4').mouseleave(function () {
+            $('.item-description4').delay(250).fadeOut(250);
+            $('.item-caption4').delay(500).fadeIn(250);
+        });
 
-            $('.item-caption').fadeIn(300);
-            $('.item-description').fadeOut(300);
-        });
-    });
 </script>

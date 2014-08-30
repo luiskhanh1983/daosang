@@ -43,3 +43,12 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Misc.WebServices\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb

@@ -32,3 +32,10 @@ E:\inportant\AFFILLMENT\Presentation\Nop.Web\Plugins\Nop.Plugin.Misc.ThemeHelper
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Misc.ThemeHelper\obj\Debug\Nop.Plugin.Misc.ThemeHelper.csprojResolveAssemblyReference.cache
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Misc.ThemeHelper\obj\Debug\Nop.Plugin.Misc.ThemeHelper.dll
 E:\inportant\AFFILLMENT\Plugins\Nop.Plugin.Misc.ThemeHelper\obj\Debug\Nop.Plugin.Misc.ThemeHelper.pdb
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Nop.Plugin.Misc.ThemeHelper\Description.txt
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Nop.Plugin.Misc.ThemeHelper\logo.jpg
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Nop.Plugin.Misc.ThemeHelper\Nop.Plugin.Misc.ThemeHelper.dll
+D:\Source\github\daosang\Presentation\Nop.Web\Plugins\Nop.Plugin.Misc.ThemeHelper\Nop.Plugin.Misc.ThemeHelper.pdb
+D:\Source\github\daosang\Plugins\Nop.Plugin.Misc.ThemeHelper\obj\Debug\Nop.Plugin.Misc.ThemeHelper.csprojResolveAssemblyReference.cache
+D:\Source\github\daosang\Plugins\Nop.Plugin.Misc.ThemeHelper\obj\Debug\Nop.Plugin.Misc.ThemeHelper.dll
+D:\Source\github\daosang\Plugins\Nop.Plugin.Misc.ThemeHelper\obj\Debug\Nop.Plugin.Misc.ThemeHelper.pdb
